@@ -1,0 +1,67 @@
+<html>
+<head>
+<title>Level 200 Description</title>
+<meta http-equiv="Content-Type" content="text/html; charset="euc-jp">
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000" link="#000000" vlink="#000000" alink="#333333">
+<STYLE type=text/css>
+<!--
+A:link {
+	TEXT-DECORATION: none
+;}
+A:visited {
+	TEXT-DECORATION: none
+;}
+A:active {
+	TEXT-DECORATION: none
+;}
+A:hover {
+	TEXT-DECORATION: underline
+;}
+-->
+</STYLE>
+<table width="600" border="0" cellspacing="0" cellpadding="0" bgcolor="#D3DEEB">
+  <tr>
+    <td><b>Level 200 (Beginner)<br>
+      £²£°£°¥ì¥Ù¥ë¡Ê½éµé¡Ë</b></td>
+  </tr>
+</table>
+<h3><font color="#000066">Level Description<br>
+  ¡¡¥ì¥Ù¥ë¤Î³µÍ×</font><br>
+</h3>
+<table width="600" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>This level is appropriate for those who:<br>
+      ¡¦Have successfully completed the first half of the beginner's course (for 
+      example, those who have completed texts such as &quot;Minna no Nihongo I&quot;, 
+      &quot;Genki I&quot;, or &quot;Situational Functional Japanese I&quot;).<br>
+      ¡¦Can make basic greetings and simple self-introductions, but cannot hold 
+      long conversations.<br>
+      ¡¦Can read and write all Hiragana and Katakana.<br>
+      ¡¦Can read about 100 kanji.<br>
+      <br>
+      ¡¦ ½éµéÆüËÜ¸ì¥³¡¼¥¹¤ÎÁ°È¾¡ÊÎã¡§¡Ö¤ß¤ó¤Ê¤ÎÆüËÜ¸ì­µ¡×¡Ö¤²¤ó¤­­µ¡×¡ÖSituational Functional Japanese­µ¡×¤Ê¤É¤Î¶µ²Ê½ñ¡Ë¤ò½ª¤ï¤Ã¤¿¥ì¥Ù¥ë¤Ç¤¹¡£<br>
+      ¡¦ Æü¾ï¤Î¤¢¤¤¤µ¤Ä¤ä´ÊÃ±¤Ê¼«¸Ê¾Ò²ð¤Ï¤Ç¤­¤Þ¤¹¤¬¡¢¤Þ¤ÀÄ¹¤¯²ñÏÃ¤òÂ³¤±¤ë¤³¤È¤ÏÆñ¤·¤¤¤Ç¤¹¡£<br>
+      ¡¦ ¤Ò¤é¤¬¤Ê¡¦¥«¥¿¥«¥Ê¤òÁ´¤ÆÆÉ¤ß½ñ¤­¤Ç¤­¤Þ¤¹¡£<br>
+      ¡¦ 100»úÄøÅÙ¤Î´Á»ú¤òÆÉ¤à¤³¤È¤¬¤Ç¤­¤Þ¤¹¡£</td>
+  </tr>
+</table>
+<br>
+<table border="0" cellspacing="0" cellpadding="0" bgcolor="#CCCCCC">
+  <tr> 
+    <td><a href="200.php"><b>Advance to Level Check<br>
+      ÆüËÜ¸ì¥ì¥Ù¥ë¥Á¥§¥Ã¥¯¤Ø¤¹¤¹¤à</b></a></td>
+    <td>¡¡<a href="200.php"><b>&gt;&gt;&gt;</b></a></td>
+  </tr>
+</table>
+<br>
+<table border="0" cellspacing="0" cellpadding="0" bgcolor="#CCCCCC">
+  <tr>
+    <td><a href="index-3.php"> &lt;&lt;&lt;Back</a></td>
+  </tr>
+</table>
+<p>¡¡</p>
+</body>
+</html>
+
