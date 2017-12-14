@@ -60,9 +60,9 @@ for ($i = 1; $i < 11; $i++) {
 <?php
 // Q1-Q10 SCORE TRANSACTION
 $total1 = 0;
+$scoreTask1 = [];
 for ($i = 1; $i < 11; $i++) {
     $id = "Q" . $i;
-
     if ($i > 10) {
         if ($_POST[$id] == 1) {
             $_POST[$id] = 5;
@@ -70,6 +70,7 @@ for ($i = 1; $i < 11; $i++) {
             $_POST[$id] = 0;
         }
     }
+    array_push($scoreTask1, $_POST[$id]);
 // Q1-Q10 SCORE PRINT
     print("<td>" . $_POST[$id] . "</td>");
 
@@ -80,22 +81,7 @@ for ($i = 1; $i < 11; $i++) {
 // TOTAL1 PRINT
 print("<td>" . htmlspecialchars($total1) . "</td>");
 
-// POST TO SERVER
 
-$url = "/save-result.php";
-$data = array('name' => 'Son');
-$options = array(
-        'http' => array(
-        'header'  => "Content-type: application/x-www-form-urlencoded\r\n",
-        'method'  => 'POST',
-        'content' => http_build_query($data),
-    )
-);
-
-$context  = stream_context_create($options);
-$result = file_get_contents($url, false, $context);
-var_dump($result);
-//
 ?>
 
 </tr>
@@ -121,6 +107,7 @@ for ($i = 1; $i < 21; $i++) {
 <?php
 // Q11-Q30 SCORE TRANSACTION
 $total2 = 0;
+$scoreTask2 = [];
 for ($i = 11; $i < 31; $i++) {$id = "Q" . $i;if ($i > 10) {
 
 // Ancer Check (Exp. 1 is correct)
@@ -129,6 +116,7 @@ for ($i = 11; $i < 31; $i++) {$id = "Q" . $i;if ($i > 10) {
     } else {
         $_POST[$id] = 0;
     }
+
 }
 
 // Q11-Q30 SCORE PRINT
@@ -136,6 +124,7 @@ for ($i = 11; $i < 31; $i++) {$id = "Q" . $i;if ($i > 10) {
 
 // TOTAL2 CALCULATE
     $total2 = $total2 + $_POST[$id];
+    array_push($scoreTask2, $_POST[$id]);
 }
 
 // TOTAL2 PRINT
@@ -156,7 +145,42 @@ print '���ʤ�������ϡ�<font color ="red">' . $total . '</f
 print '<br>';
 print 'Your point is <font color ="red">' . $total . '</font>';
 print '</b></font>';
+// POST TO SERVER
 
+$url = "http://localhost:8888/save-result.php";
+$data = array(
+    'name' => 'Son', 
+    'studentId' => '19237AS',
+    'studentNumber' => '123456',
+    'level' => 300,
+    'scoreTask1' => $scoreTask1,
+    'scoreTask2' => $scoreTask2,
+    'totalTask1' => $total1,
+    'totalTask2' => $total2,
+    'total' => $total
+);
+
+$query_url = http_build_query($data, 'flags_');
+//open connection
+$ch = curl_init();
+
+//set the url, number of POST vars, POST data
+$ch = curl_init( $url );
+curl_setopt( $ch, CURLOPT_POST, 1);
+curl_setopt( $ch, CURLOPT_POSTFIELDS, $query_url);
+curl_setopt( $ch, CURLOPT_FOLLOWLOCATION, 1);
+curl_setopt( $ch, CURLOPT_HEADER, 0);
+curl_setopt( $ch, CURLOPT_RETURNTRANSFER, 1);
+
+//execute post
+$result = curl_exec($ch);
+
+if (!$result) {
+    echo "Failed";
+}
+//close connection
+curl_close($ch);
+//
 ?>
   <br>
   <br>

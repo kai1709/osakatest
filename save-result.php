@@ -10,6 +10,7 @@
     $DBNAME = "OsakaTest";
     $USERNAME = "postgres";
     $PASSWORD = "123456";
+    $SCHEMA = "osakatest";
 
 	// $user_id = $_GET['id'];
 	// $readFile = "excel/answer_data.xlsx";
@@ -35,8 +36,31 @@
     // 	    die ('Cannot use '. DEF_TARGET_DB . " : " . mysql_error());
     // }
     $name = $_POST["name"];
-	$query_select = "INSERT INTO osakatest.teacher VALUES(" . $name . "," . $name .", 123456)" ;
-	$result = pg_query($conn, $query_select);
+    $studentId = $_POST["studentId"];
+    $studentNumber = $_POST["studentNumber"];
+    $level = $_POST["level"];
+    $task1Score =  $_POST["scoreTask1"];
+    $task2Score =  $_POST["scoreTask2"];
+    $totalScore1 = $_POST["totalTask1"];
+    $totalScore2 = $_POST["totalTask2"];
+    $totalScore = $_POST["total"];
+
+    $query_insert_result = "INSERT INTO " . $SCHEMA . ".student_result (student_name, student_id, student_number, level, 
+    question_t1_1, question_t1_2, question_t1_3, question_t1_4, question_t1_5, question_t1_6, question_t1_7, question_t1_8, question_t1_9, question_t1_10,
+    question_t2_1, question_t2_2, question_t2_3, question_t2_4, question_t2_5, question_t2_6, question_t2_7, question_t2_8, question_t2_9, question_t2_10, 
+    question_t2_11, question_t2_12, question_t2_13, question_t2_14, question_t2_15, question_t2_16, question_t2_17, question_t2_18, question_t2_19, question_t2_20, 
+    task_1_score, task_2_score, total_score) VALUES("; 
+    $query_insert_result = $query_insert_result . "'" . $name . "', '" . $studentId . "', '" . $studentNumber . "', " . $level; 
+
+    foreach($task1Score as &$score1) {
+        $query_insert_result = $query_insert_result . ", " . $score1;
+    }
+    foreach($task2Score as &$score2) {
+        $query_insert_result = $query_insert_result . ", " . $score2;
+    }
+    $query_insert_result = $query_insert_result . ", " . $totalScore1 . ", " . $totalScore2 . ", " . $totalScore . ")";
+    
+	$result = pg_query($conn, $query_insert_result);
 	if (!$result) {
 		echo "Query did not execute. \n";
 		echo pg_last_error();
