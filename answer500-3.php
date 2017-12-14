@@ -1,21 +1,24 @@
 <html>
+
 <head>
-<title>Q3 ANSWER</title>
-<meta http-equiv="Content-Type" content="text/html; charset=euc-jp">
+  <title>Q3 ANSWER</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=euc-jp">
 </head>
 
 <body bgcolor="#FFFFFF" text="#000000">
-<p>Kanji writing <br>
-  <br>
-  ¤ê¤«¤¤¡¦¡¦¡¦Íý²ò¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¤Û¤¦¤â¤ó¡¦¡¦¡¦Ë¬Ìä<br>
-  ¡¡¡¡<br>
-  ¤¦¤¹¤¤¡¦¡¦¡¦Çö¤¤¡¡ ¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¤ª¤¿¤¬¤¤¡¦¡¦¡¦¤ª¸ß¤¤<br>
-  ¡¡¡¡<br>
-  ¤Á¤¯¤»¤­¡¦¡¦¡¦ÃßÀÑ¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¤Ó¤ó¤«¤ó¡¦¡¦¡¦ÉÒ´¶<br>
-  <br>
-  ¤Ê¤·¤È¤²¤ë¡¦¡¦¡¦À®¤·¿ë¤²¤ë¡¡¡¡¡¡¤Ü¤¦¤À¤¤¡¦¡¦¡¦ËÄÂç¡¡¡¡<br>
-  <br>
-  <br>
-</p>
+  <p>Kanji writing
+    <br>
+    <br> ã‚Šã‹ã„ãƒ»ãƒ»ãƒ»ç†è§£ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã»ã†ã‚‚ã‚“ãƒ»ãƒ»ãƒ»è¨ªå•
+    <br>
+    <br> ã†ã™ã„ãƒ»ãƒ»ãƒ»è–„ã„ã€€ ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ãŠãŸãŒã„ãƒ»ãƒ»ãƒ»ãŠäº’ã„
+    <br>
+    <br> ã¡ãã›ããƒ»ãƒ»ãƒ»è“„ç©ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã³ã‚“ã‹ã‚“ãƒ»ãƒ»ãƒ»æ•æ„Ÿ
+    <br>
+    <br> ãªã—ã¨ã’ã‚‹ãƒ»ãƒ»ãƒ»æˆã—é‚ã’ã‚‹ã€€ã€€ã€€ã¼ã†ã ã„ãƒ»ãƒ»ãƒ»è†¨å¤§
+    <br>
+    <br>
+    <br>
+  </p>
 </body>
+
 </html>

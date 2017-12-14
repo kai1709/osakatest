@@ -1,62 +1,78 @@
 <html>
+
 <head>
-<title>Level 600 Description</title>
-<meta http-equiv="Content-Type" content="text/html; charset=euc-jp">
+  <title>Level 600 Description</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=euc-jp">
 </head>
 
 <body bgcolor="#FFFFFF" text="#000000" link="#000000" vlink="#000000" alink="#333333">
-<STYLE type=text/css>
-<!--
-A:link {
-	TEXT-DECORATION: none
-;}
-A:visited {
-	TEXT-DECORATION: none
-;}
-A:active {
-	TEXT-DECORATION: none
-;}
-A:hover {
-	TEXT-DECORATION: underline
-;}
--->
-</STYLE>
-<table width="600" border="0" cellspacing="0" cellpadding="0" bgcolor="#D3DEEB">
-  <tr> 
-    <td><b>£¶£°£°¥ì¥Ù¥ë¡ÊÄ¶¾åµé¡Ë<br>
-      Level 600 (Upper-Advanced) </b></td>
-  </tr>
-</table>
-<h3><font color="#000066">¥ì¥Ù¥ë¤Î³µÍ×¡ÊLevel Description¡Ë</font></h3>
-<table width="600" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td>¡¦ ¤¹¤Ç¤Ë¹âÅÙ¤ÊÆüËÜ¸ìÎÏ¤ò¤â¤Ã¤Æ¤¤¤ë¤¬¡¢¤µ¤é¤Ë¾åÃ£¤·¤¿¤¤¿Í¤Î¤¿¤á¤Î¥ì¥Ù¥ë¤Ç¤¹¡£<br>
-      ¡¦ ¹ÖµÁ¤ä¥¼¥ß¤Ç¤ÎÆ¤ÏÀ¡¢ÏÀÊ¸¤ÎÆÉ²ò¤Ê¤É¡¢¥¢¥«¥Ç¥ß¥Ã¥¯¤ÇÀìÌçÅª¤Ê³èÆ°¤Ë»²²Ã¤Ç¤­¤Ş¤¹¡£<br>
-      ¡¦ 1000»ú°Ê¾å¤Î´Á»ú¤òÆÉ¤à¤³¤È¤¬¤Ç¤­¤Ş¤¹¡£<br>
-      <br>
-      This level is appropriate for those who:<br>
-      ¡¦Have already attained a high level of proficiency, but who would like to 
-      brush up on their skills.<br>
-      ¡¦Can participate in lectures and seminar discussions, read and comprehend 
-      theses, and experience no difficulty with specialized academic activities.<br>
-      ¡¦Can read over 1000 kanji.</td>
-  </tr>
-</table>
-<br>
-<table border="0" cellspacing="0" cellpadding="0" bgcolor="#CCCCCC">
-  <tr> 
-    <td><a href="600.php"><b>Advance to Level Check<br>
-      ÆüËÜ¸ì¥ì¥Ù¥ë¥Á¥§¥Ã¥¯¤Ø¤¹¤¹¤à</b></a></td>
-    <td>¡¡<a href="600.php"><b>&gt;&gt;&gt;</b></a></td>
-  </tr>
-</table>
-<br>
-<table border="0" cellspacing="0" cellpadding="0" bgcolor="#CCCCCC">
-  <tr> 
-    <td><a href="index-3.php"> &lt;&lt;&lt;Back</a></td>
-  </tr>
-</table>
-<p>¡¡</p>
-</body>
-</html>
+  <STYLE type=text/css>
+    A:link {
+      TEXT-DECORATION: none;
+    }
 
+    A:visited {
+      TEXT-DECORATION: none;
+    }
+
+    A:active {
+      TEXT-DECORATION: none;
+    }
+
+    A:hover {
+      TEXT-DECORATION: underline;
+    }
+  </STYLE>
+  <table width="600" border="0" cellspacing="0" cellpadding="0" bgcolor="#D3DEEB">
+    <tr>
+      <td>
+        <b>ï¼–ï¼ï¼ãƒ¬ãƒ™ãƒ«ï¼ˆè¶…ä¸Šç´šï¼‰
+          <br> Level 600 (Upper-Advanced) </b>
+      </td>
+    </tr>
+  </table>
+  <h3>
+    <font color="#000066">ãƒ¬ãƒ™ãƒ«ã®æ¦‚è¦ï¼ˆLevel Descriptionï¼‰</font>
+  </h3>
+  <table width="600" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td>ãƒ» ã™ã§ã«é«˜åº¦ãªæ—¥æœ¬èªåŠ›ã‚’ã‚‚ã£ã¦ã„ã‚‹ãŒã€ã•ã‚‰ã«ä¸Šé”ã—ãŸã„äººã®ãŸã‚ã®ãƒ¬ãƒ™ãƒ«ã§ã™ã€‚
+        <br> ãƒ» è¬›ç¾©ã‚„ã‚¼ãƒŸã§ã®è¨è«–ã€è«–æ–‡ã®èª­è§£ãªã©ã€ã‚¢ã‚«ãƒ‡ãƒŸãƒƒã‚¯ã§å°‚é–€çš„ãªæ´»å‹•ã«å‚åŠ ã§ãã¾ã™ã€‚
+        <br> ãƒ» 1000å­—ä»¥ä¸Šã®æ¼¢å­—ã‚’èª­ã‚€ã“ã¨ãŒã§ãã¾ã™ã€‚
+        <br>
+        <br> This level is appropriate for those who:
+        <br> ãƒ»Have already attained a high level of proficiency, but who would like to brush up on their skills.
+        <br> ãƒ»Can participate in lectures and seminar discussions, read and comprehend theses, and experience no difficulty with
+        specialized academic activities.
+        <br> ãƒ»Can read over 1000 kanji.</td>
+    </tr>
+  </table>
+  <br>
+  <table border="0" cellspacing="0" cellpadding="0" bgcolor="#CCCCCC">
+    <tr>
+      <td>
+        <a href="600.php">
+          <b>Advance to Level Check
+            <br> æ—¥æœ¬èªãƒ¬ãƒ™ãƒ«ãƒã‚§ãƒƒã‚¯ã¸ã™ã™ã‚€
+          </b>
+        </a>
+      </td>
+      <td>
+        <a href="600.php">
+          <b>&gt;&gt;&gt;</b>
+        </a>
+      </td>
+    </tr>
+  </table>
+  <br>
+  <table border="0" cellspacing="0" cellpadding="0" bgcolor="#CCCCCC">
+    <tr>
+      <td>
+        <a href="index-3.php"> &lt;&lt;&lt;Back</a>
+      </td>
+    </tr>
+  </table>
+  <p>ã€€</p>
+</body>
+
+</html>

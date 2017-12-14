@@ -1,25 +1,58 @@
 <html>
+
 <head>
-<title>Q1 ANSWER</title>
-<meta http-equiv="Content-Type" content="text/html; charset=euc-jp">
+  <title>Q1 ANSWER</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=euc-jp">
 </head>
 
 <body bgcolor="#FFFFFF" text="#000000">
-<rb> Meanings<br>
-  <br>
-<ruby><rb>°ÂÁ´</rb><rt>¤¢¤ó¤¼¤ó</rt></ruby>¤Ê<ruby><rb>¹ñ</rb><rt>¤¯¤Ë</rt> </ruby>¡ásafe 
-country<br>
-<br>
-<ruby><rb>´Ä¶­ÌäÂê </rb><rt>¤«¤ó¤­¤ç¤¦¤â¤ó¤À¤¤</rt></ruby>¡áenvironmental issue <br>
-<br>
-<ruby><rb>Ë¡Î§</rb><rt>¤Û¤¦¤ê¤Ä</rt></ruby>¡álaw, act¡¡¡¡<br>
-<br>
-<ruby><rb>·ò¹¯</rb><rt>¤±¤ó¤³¤¦</rt></ruby>¡áhealth¡¡¡¡<br>
-¡¡¡¡¡¡<br>
-<ruby><rb>Áªµó</rb><rt>¤»¤ó¤­¤ç</rt></ruby>¡áelection¡¡<br>
-<br>
-<ruby><rb>¹ÖµÁ</rb><rt>¤³¤¦¤®</rt></ruby>¡álecture¡¡¡¡<br>
-<br>
-<ruby><rb>°ÛÊ¸²½·Ğ¸³</rb><rt>¤¤¤Ö¤ó¤«¤±¤¤¤±¤ó</rt></ruby>¡ácross cultural experience 
+  <rb> Meanings
+    <br>
+    <br>
+    <ruby>
+      <rb>å®‰å…¨</rb>
+      <rt>ã‚ã‚“ãœã‚“</rt>
+    </ruby>ãª
+    <ruby>
+      <rb>å›½</rb>
+      <rt>ãã«</rt>
+    </ruby>ï¼safe country
+    <br>
+    <br>
+    <ruby>
+      <rb>ç’°å¢ƒå•é¡Œ </rb>
+      <rt>ã‹ã‚“ãã‚‡ã†ã‚‚ã‚“ã ã„</rt>
+    </ruby>ï¼environmental issue
+    <br>
+    <br>
+    <ruby>
+      <rb>æ³•å¾‹</rb>
+      <rt>ã»ã†ã‚Šã¤</rt>
+    </ruby>ï¼law, act
+    <br>
+    <br>
+    <ruby>
+      <rb>å¥åº·</rb>
+      <rt>ã‘ã‚“ã“ã†</rt>
+    </ruby>ï¼health
+    <br>
+    <br>
+    <ruby>
+      <rb>é¸æŒ™</rb>
+      <rt>ã›ã‚“ãã‚‡</rt>
+    </ruby>ï¼election
+    <br>
+    <br>
+    <ruby>
+      <rb>è¬›ç¾©</rb>
+      <rt>ã“ã†ã</rt>
+    </ruby>ï¼lecture
+    <br>
+    <br>
+    <ruby>
+      <rb>ç•°æ–‡åŒ–çµŒé¨“</rb>
+      <rt>ã„ã¶ã‚“ã‹ã‘ã„ã‘ã‚“</rt>
+    </ruby>ï¼cross cultural experience
 </body>
+
 </html>

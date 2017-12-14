@@ -1,7 +1,7 @@
 <html>
 <head>
 <title>Level 100 Description</title>
-<meta http-equiv="Content-Type" content="text/html; charset="euc-jp">
+<meta http-equiv="Content-Type" content="text/html; charset=euc-jp">
 </head>
 
 <body bgcolor="#FFFFFF" text="#000000" link="#000000" vlink="#000000" alink="#333333">
@@ -24,21 +24,21 @@ A:hover {
 <table width="600" border="0" cellspacing="0" cellpadding="0" bgcolor="#D3DEEB">
   <tr>
     <td><b>Level 100 (Introductory) <br>
-      £±£°£°¥ì¥Ù¥ë¡ÊÆşÌç¡Ë</b></td>
+      ï¼‘ï¼ï¼ãƒ¬ãƒ™ãƒ«ï¼ˆå…¥é–€ï¼‰</b></td>
   </tr>
 </table>
 
 <h3><font color="#000066">Level Description</font><br>
-  <font color="#000066"> ¥ì¥Ù¥ë¤Î³µÍ×</font><br>
+  <font color="#000066"> ãƒ¬ãƒ™ãƒ«ã®æ¦‚è¦</font><br>
 </h3>
 <table width="600" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td>¡¦This level is appropriate for those who are studying Japanese for the 
+    <td>ãƒ»This level is appropriate for those who are studying Japanese for the 
       first time, or those who have previously studied Japanese, but would like 
       to start again from the beginning.<br>
       <br>
-      ¡¦ ÆüËÜ¸ì¤ò½é¤á¤Æ³Ø½¬¤¹¤ë¿Í¡¢¤Ş¤¿¤Ï¡¢¾¯¤·³Ø½¬¤·¤¿¤¬¤â¤¦°ìÅÙºÇ½é¤«¤é¤ä¤êÄ¾¤·¤¿¤¤¿Í¤Î¤¿¤á¤Î¥ì¥Ù¥ë¤Ç¤¹¡£´ğËÜÅª¤ÊÉ½¸½¤äÊ¸Ë¡¤ò¥¼¥í¤«¤é³Ø½¬¤·¤Ş¤¹¡£<br>
-      ¡¦ ¥ì¥Ù¥ë¥Á¥§¥Ã¥¯¥Æ¥¹¥È¤ò¤¹¤ëÉ¬Í×¤Ï¤¢¤ê¤Ş¤»¤ó¡£</td>
+      ãƒ» æ—¥æœ¬èªã‚’åˆã‚ã¦å­¦ç¿’ã™ã‚‹äººã€ã¾ãŸã¯ã€å°‘ã—å­¦ç¿’ã—ãŸãŒã‚‚ã†ä¸€åº¦æœ€åˆã‹ã‚‰ã‚„ã‚Šç›´ã—ãŸã„äººã®ãŸã‚ã®ãƒ¬ãƒ™ãƒ«ã§ã™ã€‚åŸºæœ¬çš„ãªè¡¨ç¾ã‚„æ–‡æ³•ã‚’ã‚¼ãƒ­ã‹ã‚‰å­¦ç¿’ã—ã¾ã™ã€‚<br>
+      ãƒ» ãƒ¬ãƒ™ãƒ«ãƒã‚§ãƒƒã‚¯ãƒ†ã‚¹ãƒˆã‚’ã™ã‚‹å¿…è¦ã¯ã‚ã‚Šã¾ã›ã‚“ã€‚</td>
   </tr>
 </table>
 <br>
@@ -48,8 +48,8 @@ A:hover {
     <td><a href="index-3.php">&lt;&lt;&lt;Back</a></td>
   </tr>
 </table>
-<p>¡¡</p>
-<p>¡¡</p>
+<p>ã€€</p>
+<p>ã€€</p>
 </body>
 </html>
 

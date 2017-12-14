@@ -1,64 +1,82 @@
 <html>
+
 <head>
-<title>Level 500 Description</title>
-<meta http-equiv="Content-Type" content="text/html; charset=euc-jp">
+  <title>Level 500 Description</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=euc-jp">
 </head>
 
 <body bgcolor="#FFFFFF" text="#000000" link="#000000" vlink="#000000" alink="#333333">
-<STYLE type=text/css>
-<!--
-A:link {
-	TEXT-DECORATION: none
-;}
-A:visited {
-	TEXT-DECORATION: none
-;}
-A:active {
-	TEXT-DECORATION: none
-;}
-A:hover {
-	TEXT-DECORATION: underline
-;}
--->
-</STYLE>
-<table width="600" border="0" cellspacing="0" cellpadding="0" bgcolor="#D3DEEB">
-  <tr> 
-    <td><b>£µ£°£°¥ì¥Ù¥ë¡Ê¾åµé¡Ë<br>
-      Level 500 (Advanced)</b></td>
-  </tr>
-</table>
-<h3><font color="#000066">¥ì¥Ù¥ë¤Î³µÍ×¡ÊLevel Description¡Ë</font></h3>
-<table width="600" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td>¡¦ ¾åµé¥ì¥Ù¥ë¤ÎÆüËÜ¸ìÎÏ¤ò¤â¤Ä¿Í¤Î¤¿¤á¤Î¥ì¥Ù¥ë¤Ç¤¹¡£<br>
-      ¡¦ ¤«¤Ê¤êÃê¾İÅª¤Ç¹âÅÙ¤ÊÆâÍÆ¤Ë¤Ä¤¤¤ÆÏÃ¤»¤ë¤è¤¦¤Ë¤Ê¤ê¡¢¿·Ê¹¤ä»¨»ï¤Îµ­»ö¤â¤¢¤ëÄøÅÙÍı²ò¤Ç¤­¤Ş¤¹¡£<br>
-      ¡¦ ÀìÌçÅª¤ÊÊ¸¸¥¤â»ş´Ö¤ò¤«¤±¤ì¤ĞÆÉ¤á¤Ş¤¹¤¬¡¢¼Âºİ¤Î¹ÖµÁ¤ä¥¼¥ß¤Ç¤ÎÆ¤ÏÀ¤Ë»²²Ã¤¹¤ë¤Î¤ÏÆñ¤·¤¤¤Ç¤¹¡£<br>
-      ¡¦ 800»úÄøÅÙ¤Î´Á»ú¤òÆÉ¤à¤³¤È¤¬¤Ç¤­¤Ş¤¹·¡£<br>
-      <br>
-      This level is appropriate for those who:<br>
-      ¡¦Have attained an advanced proficiency level.<br>
-      ¡¦Can talk about abstract, high-level ideas, and understand newspaper and 
-      magazine articles to an extent.<br>
-      ¡¦Can read written content of a specialized nature if given enough time, 
-      but have difficulty in participating in actual lectures and seminar discussions.<br>
-      ¡¦Can read about 800 kanji.</td>
-  </tr>
-</table>
-<br>
-<table border="0" cellspacing="0" cellpadding="0" bgcolor="#CCCCCC">
-  <tr> 
-    <td><a href="500.php"><b>Advance to Level Check<br>
-      ÆüËÜ¸ì¥ì¥Ù¥ë¥Á¥§¥Ã¥¯¤Ø¤¹¤¹¤à</b></a></td>
-    <td>¡¡<a href="500.php"><b>&gt;&gt;&gt;</b></a></td>
-  </tr>
-</table>
-<br>
-<table border="0" cellspacing="0" cellpadding="0" bgcolor="#CCCCCC">
-  <tr> 
-    <td><a href="index-3.php"> &lt;&lt;&lt;Back</a></td>
-  </tr>
-</table>
-<p><br>
-</p>
+  <STYLE type=text/css>
+    A:link {
+      TEXT-DECORATION: none;
+    }
+
+    A:visited {
+      TEXT-DECORATION: none;
+    }
+
+    A:active {
+      TEXT-DECORATION: none;
+    }
+
+    A:hover {
+      TEXT-DECORATION: underline;
+    }
+  </STYLE>
+  <table width="600" border="0" cellspacing="0" cellpadding="0" bgcolor="#D3DEEB">
+    <tr>
+      <td>
+        <b>ï¼•ï¼ï¼ãƒ¬ãƒ™ãƒ«ï¼ˆä¸Šç´šï¼‰
+          <br> Level 500 (Advanced)</b>
+      </td>
+    </tr>
+  </table>
+  <h3>
+    <font color="#000066">ãƒ¬ãƒ™ãƒ«ã®æ¦‚è¦ï¼ˆLevel Descriptionï¼‰</font>
+  </h3>
+  <table width="600" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td>ãƒ» ä¸Šç´šãƒ¬ãƒ™ãƒ«ã®æ—¥æœ¬èªåŠ›ã‚’ã‚‚ã¤äººã®ãŸã‚ã®ãƒ¬ãƒ™ãƒ«ã§ã™ã€‚
+        <br> ãƒ» ã‹ãªã‚ŠæŠ½è±¡çš„ã§é«˜åº¦ãªå†…å®¹ã«ã¤ã„ã¦è©±ã›ã‚‹ã‚ˆã†ã«ãªã‚Šã€æ–°èã‚„é›‘èªŒã®è¨˜äº‹ã‚‚ã‚ã‚‹ç¨‹åº¦ç†è§£ã§ãã¾ã™ã€‚
+        <br> ãƒ» å°‚é–€çš„ãªæ–‡çŒ®ã‚‚æ™‚é–“ã‚’ã‹ã‘ã‚Œã°èª­ã‚ã¾ã™ãŒã€å®Ÿéš›ã®è¬›ç¾©ã‚„ã‚¼ãƒŸã§ã®è¨è«–ã«å‚åŠ ã™ã‚‹ã®ã¯é›£ã—ã„ã§ã™ã€‚
+        <br> ãƒ» 800å­—ç¨‹åº¦ã®æ¼¢å­—ã‚’èª­ã‚€ã“ã¨ãŒã§ãã¾ã™ï½·ã€‚
+        <br>
+        <br> This level is appropriate for those who:
+        <br> ãƒ»Have attained an advanced proficiency level.
+        <br> ãƒ»Can talk about abstract, high-level ideas, and understand newspaper and magazine articles to an extent.
+        <br> ãƒ»Can read written content of a specialized nature if given enough time, but have difficulty in participating in
+        actual lectures and seminar discussions.
+        <br> ãƒ»Can read about 800 kanji.</td>
+    </tr>
+  </table>
+  <br>
+  <table border="0" cellspacing="0" cellpadding="0" bgcolor="#CCCCCC">
+    <tr>
+      <td>
+        <a href="500.php">
+          <b>Advance to Level Check
+            <br> æ—¥æœ¬èªãƒ¬ãƒ™ãƒ«ãƒã‚§ãƒƒã‚¯ã¸ã™ã™ã‚€
+          </b>
+        </a>
+      </td>
+      <td>
+        <a href="500.php">
+          <b>&gt;&gt;&gt;</b>
+        </a>
+      </td>
+    </tr>
+  </table>
+  <br>
+  <table border="0" cellspacing="0" cellpadding="0" bgcolor="#CCCCCC">
+    <tr>
+      <td>
+        <a href="index-3.php"> &lt;&lt;&lt;Back</a>
+      </td>
+    </tr>
+  </table>
+  <p>
+    <br>
+  </p>
 </body>
+
 </html>

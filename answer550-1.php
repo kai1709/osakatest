@@ -1,26 +1,44 @@
 <html>
+
 <head>
-<title>Q1 ANSWER</title>
-<meta http-equiv="Content-Type" content="text/html; charset=euc-jp">
+  <title>Q1 ANSWER</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=euc-jp">
 </head>
 
 <body bgcolor="#FFFFFF" text="#000000">
-<ruby><rb>Meanings<br>
-<br>
-</rb>¾ï¼±¡ácommon sense<br>
-<br>
-<ruby><rb></rb>µ¡²ñ¡áopportunity <br>
-<br>
-<ruby><rb></rb>´¶¼Õ¡ágratitude, appreciation ,acknowledgement¡¡¡¡<br>
-<br>
-<ruby><rb></rb>¸«»ö¡Ê¤Ê¡Ë¡áexcellent, superb¡¡¡¡<br>
-¡¡¡¡¡¡<br>
-<ruby><rb></rb>·ë¶É¡áafter all¡¡<br>
-<br>
-<ruby><rb></rb>Éü¶½¡árecovery (mainly economically), reconstruction¡¡¡¡<br>
-<br>
-<ruby><rb></rb>¿¼¹ï¤Ê±Æ¶Á¡áserious effect, severe damage<br>
-<br>
-<ruby><rb></rb>À¯ÉÜ¤ÎÊı¿Ë¡á governmental policy 
+  <ruby>
+    <rb>Meanings
+      <br>
+      <br>
+    </rb>å¸¸è­˜ï¼common sense
+    <br>
+    <br>
+    <ruby>
+      <rb></rb>æ©Ÿä¼šï¼opportunity
+      <br>
+      <br>
+      <ruby>
+        <rb></rb>æ„Ÿè¬ï¼gratitude, appreciation ,acknowledgement
+        <br>
+        <br>
+        <ruby>
+          <rb></rb>è¦‹äº‹ï¼ˆãªï¼‰ï¼excellent, superb
+          <br>
+          <br>
+          <ruby>
+            <rb></rb>çµå±€ï¼after all
+            <br>
+            <br>
+            <ruby>
+              <rb></rb>å¾©èˆˆï¼recovery (mainly economically), reconstruction
+              <br>
+              <br>
+              <ruby>
+                <rb></rb>æ·±åˆ»ãªå½±éŸ¿ï¼serious effect, severe damage
+                <br>
+                <br>
+                <ruby>
+                  <rb></rb>æ”¿åºœã®æ–¹é‡ï¼ governmental policy
 </body>
+
 </html>

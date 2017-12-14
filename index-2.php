@@ -1,104 +1,150 @@
 <html>
+
 <head>
-<title>£Ì£å£ö£å£ì¡¡£Ã£è£å£ã£ë-2</title>
-<meta http-equiv="Content-Type" content="text/html; charset="euc-jp">
+  <title>ï¼¬ï½…ï½–ï½…ï½Œã€€ï¼£ï½ˆï½…ï½ƒï½‹-2</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=euc-jp">
 </head>
 
 <body bgcolor="#FFFFFF" text="#000000" link="#000000" vlink="#000000" alink="#000000">
-<STYLE type=text/css>
-<!--
-A:link {
-	TEXT-DECORATION: none
-;}
-A:visited {
-	TEXT-DECORATION: none
-;}
-A:active {
-	TEXT-DECORATION: none
-;}
-A:hover {
-	TEXT-DECORATION: underline
-;}
--->
-</STYLE>
+  <STYLE type=text/css>
+    A:link {
+      TEXT-DECORATION: none;
+    }
 
-<table border="0" cellspacing="0" cellpadding="0" align="center" width="600">
-  <tr> 
-    <td bgcolor="#D3DEEB" align="center"><font size="4"><b>¡¡Process for Determining 
-      Japanese Proficiency Level¡¡<br>
-      ÆüËÜ¸ì¥ì¥Ù¥ë¥Á¥§¥Ã¥¯¤Î¼ê½ç</b></font></td>
-  </tr>
-</table>
-<div align="center"><font size="2" color="#990000"><br>
-  </font>
-  <table width="600" border="0" cellspacing="0" cellpadding="0" align="center">
+    A:visited {
+      TEXT-DECORATION: none;
+    }
+
+    A:active {
+      TEXT-DECORATION: none;
+    }
+
+    A:hover {
+      TEXT-DECORATION: underline;
+    }
+  </STYLE>
+
+  <table border="0" cellspacing="0" cellpadding="0" align="center" width="600">
     <tr>
-      <td> <font size="4">Each student must determine their own level of Japanese 
-        proficiency. The level check should be performed in accordance with the 
-        description below.<br>
-        </font>ÆüËÜ¸ì¥ì¥Ù¥ë¥Á¥§¥Ã¥¯¤Ï¼«¸ÊÈ½ÄêÊı¼°¤Ç¤¹¡£°Ê²¼¤Î¼ê½ç¤Ç¥ì¥Ù¥ë¥Á¥§¥Ã¥¯¤ò¤·¤Æ¤¯¤À¤µ¤¤¡£<font size="4">¡¡¡¡ </font> 
-        <p> <font size="1"><font size="4">Although a level will be recommended 
-          based on your total score of two exams, the final decision as to what 
-          class the student will enter is the student's responsibility.<br>
-          </font></font>£²¤Ä¤Î¥Æ¥¹¥È¤ÇÆÀ¤é¤ì¤¿ÅÀ¿ô¤Ë¤è¤Ã¤Æ¿äÁ¦¤¹¤ë¥ì¥Ù¥ë¤òÈ½Äê¤·¤Ş¤¹¤¬¡¢¥ì¥Ù¥ë¤Î·èÄê¤Ï¼«¸ÊÀÕÇ¤¤Ë¤ª¤¤¤Æ¹Ô¤Ã¤Æ¤¯¤À¤µ¤¤¡£<br>
-        </p>
+      <td bgcolor="#D3DEEB" align="center">
+        <font size="4">
+          <b>ã€€Process for Determining Japanese Proficiency Level
+            <br> æ—¥æœ¬èªãƒ¬ãƒ™ãƒ«ãƒã‚§ãƒƒã‚¯ã®æ‰‹é †
+          </b>
+        </font>
       </td>
     </tr>
   </table>
-  <br>
-  <br>
-  <font color="#FF0000"></font><font size="2" color="#FF0000"><b> </b></font><br>
-  <br>
-  <div align="center"> </div>
-  <table width="720" border="0" cellspacing="0" cellpadding="0" align="center">
-    <tr> 
-      <td width="120" bgcolor="#FFFF99" align="center">Choose a level between 
-        <font color="#FF0000"><br>
-        100¡Á600</font><font size="2"><br>
-        <font color="#FF0000">100¡Á600</font>¥ì¥Ù¥ë¤«¤é£±¤Ä¤òÁª¤Ö</font><br>
-      </td>
-      <td width="40" align="center" valign="middle"><img src="arrow.gif" width="21" height="34"></td>
-      <td width="120" bgcolor="#FFFF99" align="center">Read the level explanation 
-        carefully<font size="2"><br>
-        ¥ì¥Ù¥ë¤ÎÀâÌÀ¤ò¤è¤¯ÆÉ¤à<br>
-        </font> </td>
-      <td width="40" align="center" valign="middle"><img src="arrow.gif" width="21" height="34"></td>
-      <td width="120" bgcolor="#AFD8D8" align="center"><font size="2"> </font>Determine 
-        your own Japanese proficiency level.<br>
-        <font size="2">ÆüËÜ¸ìÇ½ÎÏ¼«¸ÊÉ¾²Á</font></td>
-      <td width="40" align="center" valign="middle"><img src="arrow.gif" width="21" height="34"></td>
-      <td width="120" bgcolor="#AFD8D8" align="center">Japanese Proficiency level 
-        check fill-in-the-blank test.<font size="2"><br>
-        ÆüËÜ¸ìÇ½ÎÏ¥Á¥§¥Ã¥¯<br>
-        ¡Ê·êËä¤áÊı¼°¡Ë</font></td>
-      <td width="40" align="center" valign="middle"><img src="arrow.gif" width="21" height="34"></td>
-      <td width="80"> 
-        <table width="80" border="0" cellspacing="0" cellpadding="0" height="30">
-          <tr> 
-            <td align="center" bgcolor="#0296EE"><b> Results<br>
-              ¿Ç¡¡ÃÇ</b></td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-  <br>
-  <br>
-  <table border="0" cellspacing="0" cellpadding="0" align="center">
-    <tr> 
-      <td align="center" bgcolor="#CCCCCC"><a href="index-3.php"><font size="2">Go 
-        to the next page<br>
-        ¼¡¤Î¥Ú¡¼¥¸¤Ë¿Ê¤à<br>
-        </font></a></td>
-      <td align="center" bgcolor="#CCCCCC"><b>¢Í&gt;&gt;&gt;</b></td>
-    </tr>
-  </table>
-  <br>
-  <a href="index.php">&lt;&lt;Back</a> <br>
-  <br>
-  <hr width="700" size="1" noshade align="center">
-  <br>
-  Copyright&copy;All contents and the system provided in this site reserved<br>
-  for International Student Center, Osaka University </div>
+  <div align="center">
+    <font size="2" color="#990000">
+      <br>
+    </font>
+    <table width="600" border="0" cellspacing="0" cellpadding="0" align="center">
+      <tr>
+        <td>
+          <font size="4">Each student must determine their own level of Japanese proficiency. The level check should be performed in accordance
+            with the description below.
+            <br>
+          </font>æ—¥æœ¬èªãƒ¬ãƒ™ãƒ«ãƒã‚§ãƒƒã‚¯ã¯è‡ªå·±åˆ¤å®šæ–¹å¼ã§ã™ã€‚ä»¥ä¸‹ã®æ‰‹é †ã§ãƒ¬ãƒ™ãƒ«ãƒã‚§ãƒƒã‚¯ã‚’ã—ã¦ãã ã•ã„ã€‚
+          <font size="4">ã€€ã€€ </font>
+          <p>
+            <font size="1">
+              <font size="4">Although a level will be recommended based on your total score of two exams, the final decision as to what
+                class the student will enter is the student's responsibility.
+                <br>
+              </font>
+            </font>ï¼’ã¤ã®ãƒ†ã‚¹ãƒˆã§å¾—ã‚‰ã‚ŒãŸç‚¹æ•°ã«ã‚ˆã£ã¦æ¨è–¦ã™ã‚‹ãƒ¬ãƒ™ãƒ«ã‚’åˆ¤å®šã—ã¾ã™ãŒã€ãƒ¬ãƒ™ãƒ«ã®æ±ºå®šã¯è‡ªå·±è²¬ä»»ã«ãŠã„ã¦è¡Œã£ã¦ãã ã•ã„ã€‚
+            <br>
+          </p>
+        </td>
+      </tr>
+    </table>
+    <br>
+    <br>
+    <font color="#FF0000"></font>
+    <font size="2" color="#FF0000">
+      <b> </b>
+    </font>
+    <br>
+    <br>
+    <div align="center"> </div>
+    <table width="720" border="0" cellspacing="0" cellpadding="0" align="center">
+      <tr>
+        <td width="120" bgcolor="#FFFF99" align="center">Choose a level between
+          <font color="#FF0000">
+            <br> 100ï½600
+          </font>
+          <font size="2">
+            <br>
+            <font color="#FF0000">100ï½600</font>ãƒ¬ãƒ™ãƒ«ã‹ã‚‰ï¼‘ã¤ã‚’é¸ã¶</font>
+          <br>
+        </td>
+        <td width="40" align="center" valign="middle">
+          <img src="arrow.gif" width="21" height="34">
+        </td>
+        <td width="120" bgcolor="#FFFF99" align="center">Read the level explanation carefully
+          <font size="2">
+            <br> ãƒ¬ãƒ™ãƒ«ã®èª¬æ˜ã‚’ã‚ˆãèª­ã‚€
+            <br>
+          </font>
+        </td>
+        <td width="40" align="center" valign="middle">
+          <img src="arrow.gif" width="21" height="34">
+        </td>
+        <td width="120" bgcolor="#AFD8D8" align="center">
+          <font size="2"> </font>Determine your own Japanese proficiency level.
+          <br>
+          <font size="2">æ—¥æœ¬èªèƒ½åŠ›è‡ªå·±è©•ä¾¡</font>
+        </td>
+        <td width="40" align="center" valign="middle">
+          <img src="arrow.gif" width="21" height="34">
+        </td>
+        <td width="120" bgcolor="#AFD8D8" align="center">Japanese Proficiency level check fill-in-the-blank test.
+          <font size="2">
+            <br> æ—¥æœ¬èªèƒ½åŠ›ãƒã‚§ãƒƒã‚¯
+            <br> ï¼ˆç©´åŸ‹ã‚æ–¹å¼ï¼‰
+          </font>
+        </td>
+        <td width="40" align="center" valign="middle">
+          <img src="arrow.gif" width="21" height="34">
+        </td>
+        <td width="80">
+          <table width="80" border="0" cellspacing="0" cellpadding="0" height="30">
+            <tr>
+              <td align="center" bgcolor="#0296EE">
+                <b> Results
+                  <br> è¨ºã€€æ–­
+                </b>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+    <br>
+    <br>
+    <table border="0" cellspacing="0" cellpadding="0" align="center">
+      <tr>
+        <td align="center" bgcolor="#CCCCCC">
+          <a href="index-3.php">
+            <font size="2">Go to the next page
+              <br> æ¬¡ã®ãƒšãƒ¼ã‚¸ã«é€²ã‚€
+              <br>
+            </font>
+          </a>
+        </td>
+        <td align="center" bgcolor="#CCCCCC">
+          <b>â‡’&gt;&gt;&gt;</b>
+        </td>
+      </tr>
+    </table>
+    <br>
+    <a href="index.php">&lt;&lt;Back</a>
+    <br>
+    <br>
+    <hr width="700" size="1" noshade align="center">
+    <br> Copyright&copy;All contents and the system provided in this site reserved
+    <br> for International Student Center, Osaka University </div>
 </body>
+
 </html>

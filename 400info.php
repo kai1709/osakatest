@@ -1,65 +1,84 @@
 <html>
+
 <head>
-<title>Level 400 Description</title>
-<meta http-equiv="Content-Type" content="text/html; charset=euc-jp">
+  <title>Level 400 Description</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=euc-jp">
 </head>
 
 <body bgcolor="#FFFFFF" text="#000000" link="#000000" vlink="#000000" alink="#333333">
-<STYLE type=text/css>
-<!--
-A:link {
-	TEXT-DECORATION: none
-;}
-A:visited {
-	TEXT-DECORATION: none
-;}
-A:active {
-	TEXT-DECORATION: none
-;}
-A:hover {
-	TEXT-DECORATION: underline
-;}
--->
-</STYLE>
-<table width="600" border="0" cellspacing="0" cellpadding="0" bgcolor="#D3DEEB">
-  <tr>
-    <td><b>Level 400 (Upper-Intermediate)<br>
-      £´£°£°¥ì¥Ù¥ë¡ÊÃæµé¸å´ü¡Ë</b></td>
-  </tr>
-</table>
-<h3><font color="#000066">Level Description<br>
-  ¥ì¥Ù¥ë¤Î³µÍ×</font></h3>
-<table width="600" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td>This level is appropriate for those who:<br>
-      ¡¦Have attained an upper-intermediate proficiency level.<br>
-      ¡¦Can participate in everyday conversation with no problem, and use honorific 
-      speech towards professors and others of rank.<br>
-      ¡¦Can read short newspaper articles and comprehend spoken news items concerning 
-      areas of interest, but have difficulty understanding long or complicated 
-      sentences.<br>
-      ¡¦Can read about 500 kanji.<br>
-      <br>
-      ¡¦ Ãæµé¸åÈ¾¥ì¥Ù¥ë¤ÎÆüËÜ¸ìÎÏ¤ò¤â¤Ä¿Í¤Î¤¿¤á¤Î¥ì¥Ù¥ë¤Ç¤¹¡£<br>
-      ¡¦ Æü¾ï¤Î¥³¥ß¥å¥Ë¥±¡¼¥·¥ç¥ó¤ÏÌäÂê¤Ê¤¯¤Ç¤­¡¢ÀèÀ¸¤äÌÜ¾å¤Î¿Í¤Ë¤Ï·É¸ì¤ò»È¤Ã¤ÆÏÃ¤»¤Ş¤¹¡£<br>
-      ¡¦ ¶½Ì£¤Î¤¢¤ëÏÃÂê¤Ë¤Ä¤¤¤Æ¤Ï¡¢Ã»¤¤¿·Ê¹µ­»ö¤òÆÉ¤ó¤À¤ê¥Ë¥å¡¼¥¹¤òÊ¹¤¤¤¿¤ê¤Ç¤­¤Ş¤¹¤¬¡¢Ä¹¤¤Ê¸¾Ï¤äÊ£»¨¤ÊÆâÍÆ¤òÍı²ò¤¹¤ë¤Î¤ÏÆñ¤·¤¤¤Ç¤¹¡£<br>
-      ¡¦ 500»úÄøÅÙ¤Î´Á»ú¤òÆÉ¤à¤³¤È¤¬¤Ç¤­¤Ş¤¹¡£</td>
-  </tr>
-</table>
-<br>
-<table border="0" cellspacing="0" cellpadding="0" bgcolor="#CCCCCC">
-  <tr> 
-    <td><a href="400.php"><b>Advance to Level Check<br>
-      ÆüËÜ¸ì¥ì¥Ù¥ë¥Á¥§¥Ã¥¯¤Ø¤¹¤¹¤à</b></a></td>
-    <td>¡¡<a href="400.php"><b>&gt;&gt;&gt;</b></a></td>
-  </tr>
-</table>
-<br>
-<table border="0" cellspacing="0" cellpadding="0" bgcolor="#CCCCCC">
-  <tr> 
-    <td><a href="index-3.php"> &lt;&lt;&lt;Back</a></td>
-  </tr>
-</table>
-<p>¡¡</p>
+  <STYLE type=text/css>
+    A:link {
+      TEXT-DECORATION: none;
+    }
+
+    A:visited {
+      TEXT-DECORATION: none;
+    }
+
+    A:active {
+      TEXT-DECORATION: none;
+    }
+
+    A:hover {
+      TEXT-DECORATION: underline;
+    }
+  </STYLE>
+  <table width="600" border="0" cellspacing="0" cellpadding="0" bgcolor="#D3DEEB">
+    <tr>
+      <td>
+        <b>Level 400 (Upper-Intermediate)
+          <br> ï¼”ï¼ï¼ãƒ¬ãƒ™ãƒ«ï¼ˆä¸­ç´šå¾ŒæœŸï¼‰
+        </b>
+      </td>
+    </tr>
+  </table>
+  <h3>
+    <font color="#000066">Level Description
+      <br> ãƒ¬ãƒ™ãƒ«ã®æ¦‚è¦
+    </font>
+  </h3>
+  <table width="600" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td>This level is appropriate for those who:
+        <br> ãƒ»Have attained an upper-intermediate proficiency level.
+        <br> ãƒ»Can participate in everyday conversation with no problem, and use honorific speech towards professors and others
+        of rank.
+        <br> ãƒ»Can read short newspaper articles and comprehend spoken news items concerning areas of interest, but have difficulty
+        understanding long or complicated sentences.
+        <br> ãƒ»Can read about 500 kanji.
+        <br>
+        <br> ãƒ» ä¸­ç´šå¾ŒåŠãƒ¬ãƒ™ãƒ«ã®æ—¥æœ¬èªåŠ›ã‚’ã‚‚ã¤äººã®ãŸã‚ã®ãƒ¬ãƒ™ãƒ«ã§ã™ã€‚
+        <br> ãƒ» æ—¥å¸¸ã®ã‚³ãƒŸãƒ¥ãƒ‹ã‚±ãƒ¼ã‚·ãƒ§ãƒ³ã¯å•é¡Œãªãã§ãã€å…ˆç”Ÿã‚„ç›®ä¸Šã®äººã«ã¯æ•¬èªã‚’ä½¿ã£ã¦è©±ã›ã¾ã™ã€‚
+        <br> ãƒ» èˆˆå‘³ã®ã‚ã‚‹è©±é¡Œã«ã¤ã„ã¦ã¯ã€çŸ­ã„æ–°èè¨˜äº‹ã‚’èª­ã‚“ã ã‚Šãƒ‹ãƒ¥ãƒ¼ã‚¹ã‚’èã„ãŸã‚Šã§ãã¾ã™ãŒã€é•·ã„æ–‡ç« ã‚„è¤‡é›‘ãªå†…å®¹ã‚’ç†è§£ã™ã‚‹ã®ã¯é›£ã—ã„ã§ã™ã€‚
+        <br> ãƒ» 500å­—ç¨‹åº¦ã®æ¼¢å­—ã‚’èª­ã‚€ã“ã¨ãŒã§ãã¾ã™ã€‚</td>
+    </tr>
+  </table>
+  <br>
+  <table border="0" cellspacing="0" cellpadding="0" bgcolor="#CCCCCC">
+    <tr>
+      <td>
+        <a href="400.php">
+          <b>Advance to Level Check
+            <br> æ—¥æœ¬èªãƒ¬ãƒ™ãƒ«ãƒã‚§ãƒƒã‚¯ã¸ã™ã™ã‚€
+          </b>
+        </a>
+      </td>
+      <td>
+        <a href="400.php">
+          <b>&gt;&gt;&gt;</b>
+        </a>
+      </td>
+    </tr>
+  </table>
+  <br>
+  <table border="0" cellspacing="0" cellpadding="0" bgcolor="#CCCCCC">
+    <tr>
+      <td>
+        <a href="index-3.php"> &lt;&lt;&lt;Back</a>
+      </td>
+    </tr>
+  </table>
+  <p>ã€€</p>
 </body>
+
 </html>

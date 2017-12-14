@@ -1,18 +1,20 @@
 <html>
+
 <head>
-<title>Q3 ANSWER</title>
-<meta http-equiv="Content-Type" content="text/html; charset=euc-jp">
+  <title>Q3 ANSWER</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=euc-jp">
 </head>
 
 <body bgcolor="#FFFFFF" text="#000000">
-Meanings<br>
-<br>
-Âç³Ø¡¦¡¦¡¦university¡¡¡¡³°¹ñ¿Í¡¦¡¦¡¦foreigner¡¡<br>
-¡¡<br>
-ÍèÇ¯¡¦¡¦¡¦next year ¡¡ ²ñ¼Ò¡¦¡¦¡¦¡¦¡¦company¡¡¡¡<br>
-<br>
-¼«Å¾¼Ö¡¦¡¦¡¦bicycle ¡¡¡¡±Ç²è¡¦¡¦¡¦movie<br>
-<br>
-Î¹¹Ô¡¦¡¦¡¦travel¡¡¡¡¡¡ 
+  Meanings
+  <br>
+  <br> å¤§å­¦ãƒ»ãƒ»ãƒ»universityã€€ã€€å¤–å›½äººãƒ»ãƒ»ãƒ»foreigner
+  <br>
+  <br> æ¥å¹´ãƒ»ãƒ»ãƒ»next year ã€€ ä¼šç¤¾ãƒ»ãƒ»ãƒ»ãƒ»ãƒ»company
+  <br>
+  <br> è‡ªè»¢è»Šãƒ»ãƒ»ãƒ»bicycle ã€€ã€€æ˜ ç”»ãƒ»ãƒ»ãƒ»movie
+  <br>
+  <br> æ—…è¡Œãƒ»ãƒ»ãƒ»travel
 </body>
+
 </html>

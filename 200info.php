@@ -1,12 +1,11 @@
 <html>
 <head>
 <title>Level 200 Description</title>
-<meta http-equiv="Content-Type" content="text/html; charset="euc-jp">
+<meta http-equiv="Content-Type" content="text/html; charset=euc-jp">
 </head>
 
 <body bgcolor="#FFFFFF" text="#000000" link="#000000" vlink="#000000" alink="#333333">
 <STYLE type=text/css>
-<!--
 A:link {
 	TEXT-DECORATION: none
 ;}
@@ -19,40 +18,39 @@ A:active {
 A:hover {
 	TEXT-DECORATION: underline
 ;}
--->
 </STYLE>
 <table width="600" border="0" cellspacing="0" cellpadding="0" bgcolor="#D3DEEB">
   <tr>
     <td><b>Level 200 (Beginner)<br>
-      £²£°£°¥ì¥Ù¥ë¡Ê½éµé¡Ë</b></td>
+      ï¼’ï¼ï¼ãƒ¬ãƒ™ãƒ«ï¼ˆåˆç´šï¼‰</b></td>
   </tr>
 </table>
 <h3><font color="#000066">Level Description<br>
-  ¡¡¥ì¥Ù¥ë¤Î³µÍ×</font><br>
+  ã€€ãƒ¬ãƒ™ãƒ«ã®æ¦‚è¦</font><br>
 </h3>
 <table width="600" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td>This level is appropriate for those who:<br>
-      ¡¦Have successfully completed the first half of the beginner's course (for 
-      example, those who have completed texts such as &quot;Minna no Nihongo I&quot;, 
+      ãƒ»Have successfully completed the first half of the beginner's course (for
+      example, those who have completed texts such as &quot;Minna no Nihongo I&quot;,
       &quot;Genki I&quot;, or &quot;Situational Functional Japanese I&quot;).<br>
-      ¡¦Can make basic greetings and simple self-introductions, but cannot hold 
+      ãƒ»Can make basic greetings and simple self-introductions, but cannot hold
       long conversations.<br>
-      ¡¦Can read and write all Hiragana and Katakana.<br>
-      ¡¦Can read about 100 kanji.<br>
+      ãƒ»Can read and write all Hiragana and Katakana.<br>
+      ãƒ»Can read about 100 kanji.<br>
       <br>
-      ¡¦ ½éµéÆüËÜ¸ì¥³¡¼¥¹¤ÎÁ°È¾¡ÊÎã¡§¡Ö¤ß¤ó¤Ê¤ÎÆüËÜ¸ì­µ¡×¡Ö¤²¤ó¤­­µ¡×¡ÖSituational Functional Japanese­µ¡×¤Ê¤É¤Î¶µ²Ê½ñ¡Ë¤ò½ª¤ï¤Ã¤¿¥ì¥Ù¥ë¤Ç¤¹¡£<br>
-      ¡¦ Æü¾ï¤Î¤¢¤¤¤µ¤Ä¤ä´ÊÃ±¤Ê¼«¸Ê¾Ò²ğ¤Ï¤Ç¤­¤Ş¤¹¤¬¡¢¤Ş¤ÀÄ¹¤¯²ñÏÃ¤òÂ³¤±¤ë¤³¤È¤ÏÆñ¤·¤¤¤Ç¤¹¡£<br>
-      ¡¦ ¤Ò¤é¤¬¤Ê¡¦¥«¥¿¥«¥Ê¤òÁ´¤ÆÆÉ¤ß½ñ¤­¤Ç¤­¤Ş¤¹¡£<br>
-      ¡¦ 100»úÄøÅÙ¤Î´Á»ú¤òÆÉ¤à¤³¤È¤¬¤Ç¤­¤Ş¤¹¡£</td>
+      ãƒ» åˆç´šæ—¥æœ¬èªã‚³ãƒ¼ã‚¹ã®å‰åŠï¼ˆä¾‹ï¼šã€Œã¿ã‚“ãªã®æ—¥æœ¬èªâ… ã€ã€Œã’ã‚“ãâ… ã€ã€ŒSituational Functional Japaneseâ… ã€ãªã©ã®æ•™ç§‘æ›¸ï¼‰ã‚’çµ‚ã‚ã£ãŸãƒ¬ãƒ™ãƒ«ã§ã™ã€‚<br>
+      ãƒ» æ—¥å¸¸ã®ã‚ã„ã•ã¤ã‚„ç°¡å˜ãªè‡ªå·±ç´¹ä»‹ã¯ã§ãã¾ã™ãŒã€ã¾ã é•·ãä¼šè©±ã‚’ç¶šã‘ã‚‹ã“ã¨ã¯é›£ã—ã„ã§ã™ã€‚<br>
+      ãƒ» ã²ã‚‰ãŒãªãƒ»ã‚«ã‚¿ã‚«ãƒŠã‚’å…¨ã¦èª­ã¿æ›¸ãã§ãã¾ã™ã€‚<br>
+      ãƒ» 100å­—ç¨‹åº¦ã®æ¼¢å­—ã‚’èª­ã‚€ã“ã¨ãŒã§ãã¾ã™ã€‚</td>
   </tr>
 </table>
 <br>
 <table border="0" cellspacing="0" cellpadding="0" bgcolor="#CCCCCC">
-  <tr> 
+  <tr>
     <td><a href="200.php"><b>Advance to Level Check<br>
-      ÆüËÜ¸ì¥ì¥Ù¥ë¥Á¥§¥Ã¥¯¤Ø¤¹¤¹¤à</b></a></td>
-    <td>¡¡<a href="200.php"><b>&gt;&gt;&gt;</b></a></td>
+      æ—¥æœ¬èªãƒ¬ãƒ™ãƒ«ãƒã‚§ãƒƒã‚¯ã¸ã™ã™ã‚€</b></a></td>
+    <td>ã€€<a href="200.php"><b>&gt;&gt;&gt;</b></a></td>
   </tr>
 </table>
 <br>
@@ -61,7 +59,6 @@ A:hover {
     <td><a href="index-3.php"> &lt;&lt;&lt;Back</a></td>
   </tr>
 </table>
-<p>¡¡</p>
+<p>ã€€</p>
 </body>
 </html>
-

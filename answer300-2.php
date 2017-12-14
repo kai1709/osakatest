@@ -1,18 +1,20 @@
 <html>
+
 <head>
-<title>Q2 ANSWER</title>
-<meta http-equiv="Content-Type" content="text/html; charset=euc-jp">
+  <title>Q2 ANSWER</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=euc-jp">
 </head>
 
 <body bgcolor="#FFFFFF" text="#000000">
-Meaning<br>
-<br>
-ÅÅ»Ò¥á¡¼¥ë¡áelectric mail¡¡¡¡ £±»ş´Ö°ÊÆâ¡áwithin one hour¡¡<br>
-¡¡<br>
-ÆÃÊÌ¤Î¡áspecial, particular¡¡¡¡¸¦µæ¡áresearch<br>
-¡¡¡¡<br>
-¼«Á³²Ê³Ø¡ánatural science¡¡¡¡ÍøÍÑ¤¹¤ë¡áuse, utilize<br>
-<br>
-À¤³¦¡áworld¡¡ 
+  Meaning
+  <br>
+  <br> é›»å­ãƒ¡ãƒ¼ãƒ«ï¼electric mailã€€ã€€ ï¼‘æ™‚é–“ä»¥å†…ï¼within one hour
+  <br>
+  <br> ç‰¹åˆ¥ã®ï¼special, particularã€€ã€€ç ”ç©¶ï¼research
+  <br>
+  <br> è‡ªç„¶ç§‘å­¦ï¼natural scienceã€€ã€€åˆ©ç”¨ã™ã‚‹ï¼use, utilize
+  <br>
+  <br> ä¸–ç•Œï¼world
 </body>
+
 </html>

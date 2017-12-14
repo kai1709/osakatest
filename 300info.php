@@ -1,67 +1,80 @@
 <html>
+
 <head>
-<title>Level 300 Description</title>
-<meta http-equiv="Content-Type" content="text/html; charset=euc-jp">
+  <title>Level 300 Description</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=euc-jp">
 </head>
 
 <body bgcolor="#FFFFFF" text="#000000" link="#000000" vlink="#000000" alink="#333333">
-<STYLE type=text/css>
-<!--
-A:link {
-	TEXT-DECORATION: none
-;}
-A:visited {
-	TEXT-DECORATION: none
-;}
-A:active {
-	TEXT-DECORATION: none
-;}
-A:hover {
-	TEXT-DECORATION: underline
-;}
--->
-</STYLE>
-<table width="600" border="0" cellspacing="0" cellpadding="0" bgcolor="#D3DEEB">
-  <tr>
-    <td><b>Level 300 (Intermediate)<br>
-      £³£°£°¥ì¥Ù¥ë¡ÊÃæµéÁ°´ü¡Ë</b></td>
-  </tr>
-</table>
-<h3><font color="#000066">Level Description<br>
-  ¡¡¥ì¥Ù¥ë¤Î³µÍ×</font></h3>
-<table width="600" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td>This level is appropriate for those who:<br>
-      ¡¦Have successfully completed the beginner's course (for example, those who 
-      have completed texts such as &quot;Minna no Nihongo II&quot;, &quot;Genki 
-      II&quot;, or &quot;Situational Functional Japanese II&quot;).<br>
-      ¡¦Can hold simple, everyday conversation and read and write simple sentences 
-      about familiar things.<br>
-      ¡¦Can comprehend Japanese when it is spoken slowly and clearly, but have 
-      trouble understanding Japanese at a normal rate of speed.<br>
-      ¡¦Can read about 200-300 kanji.<br>
-      <br>
-      ¡¦ ½éµéÆüËÜ¸ì¥³¡¼¥¹¡ÊÎã¡§¡Ö¤ß¤ó¤Ê¤ÎÆüËÜ¸ì­¶¡×¡Ö¤²¤ó¤­­¶¡×¡ÖSituational Functional Japanese ­¶¡×¤Ê¤É¤Î¶µ²Ê½ñ¡Ë¤ò½ª¤ï¤Ã¤¿¥ì¥Ù¥ë¤Ç¤¹¡£<br>
-      ¡¦ ´ÊÃ±¤ÊÆü¾ï²ñÏÃ¤ä¡¢¿È¶á¤ÊÏÃÂê¤Ë¤Ä¤¤¤Æ¤ÎÃ»¤¤Ê¸¾Ï¤ÎÆÉ¤ß½ñ¤­¤¬¤Ç¤­¤Ş¤¹¡£<br>
-      ¡¦ ¤æ¤Ã¤¯¤ê¤ï¤«¤ê¤ä¤¹¤¯ÏÃ¤·¤Æ¤â¤é¤¦¤ÈÊ¹¤­¤È¤ì¤Ş¤¹¤¬¡¢ÉáÄÌ¤ÎÂ®¤µ¤ÎÏÃ¤òÊ¹¤¯¤Î¤ÏÆñ¤·¤¤¤Ç¤¹¡£<br>
-      ¡¦ 200¡Á300»úÄøÅÙ¤Î´Á»ú¤òÆÉ¤à¤³¤È¤¬¤Ç¤­¤Ş¤¹¡£</td>
-  </tr>
-</table>
-<br>
-<table border="0" cellspacing="0" cellpadding="0" bgcolor="#CCCCCC">
-  <tr> 
-    <td><a href="300.php"><b>Advance to Level Check<br>
-      ÆüËÜ¸ì¥ì¥Ù¥ë¥Á¥§¥Ã¥¯¤Ø¤¹¤¹¤à</b></a></td>
-    <td>¡¡<a href="300.php"><b>&gt;&gt;&gt;</b></a></td>
-  </tr>
-</table>
-<br>
-<table border="0" cellspacing="0" cellpadding="0" bgcolor="#CCCCCC">
-  <tr> 
-    <td><a href="index-3.php"> &lt;&lt;&lt;Back</a></td>
-  </tr>
-</table>
-<p>¡¡ </p>
+  <STYLE type=text/css>
+    A:link {
+      TEXT-DECORATION: none;
+    }
+    A:visited {
+      TEXT-DECORATION: none;
+    }
+    A:active {
+      TEXT-DECORATION: none;
+    }
+    A:hover {
+      TEXT-DECORATION: underline;
+    }
+  </STYLE>
+  <table width="600" border="0" cellspacing="0" cellpadding="0" bgcolor="#D3DEEB">
+    <tr>
+      <td>
+        <b>Level 300 (Intermediate)
+          <br> ï¼“ï¼ï¼ãƒ¬ãƒ™ãƒ«ï¼ˆä¸­ç´šå‰æœŸï¼‰
+        </b>
+      </td>
+    </tr>
+  </table>
+  <h3>
+    <font color="#000066">Level Description
+      <br> ã€€ãƒ¬ãƒ™ãƒ«ã®æ¦‚è¦
+    </font>
+  </h3>
+  <table width="600" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td>This level is appropriate for those who:
+        <br> ãƒ»Have successfully completed the beginner's course (for example, those who have completed texts such as &quot;Minna
+        no Nihongo II&quot;, &quot;Genki II&quot;, or &quot;Situational Functional Japanese II&quot;).
+        <br> ãƒ»Can hold simple, everyday conversation and read and write simple sentences about familiar things.
+        <br> ãƒ»Can comprehend Japanese when it is spoken slowly and clearly, but have trouble understanding Japanese at a normal
+        rate of speed.
+        <br> ãƒ»Can read about 200-300 kanji.
+        <br>
+        <br> ãƒ» åˆç´šæ—¥æœ¬èªã‚³ãƒ¼ã‚¹ï¼ˆä¾‹ï¼šã€Œã¿ã‚“ãªã®æ—¥æœ¬èªâ…¡ã€ã€Œã’ã‚“ãâ…¡ã€ã€ŒSituational Functional Japanese â…¡ã€ãªã©ã®æ•™ç§‘æ›¸ï¼‰ã‚’çµ‚ã‚ã£ãŸãƒ¬ãƒ™ãƒ«ã§ã™ã€‚
+        <br> ãƒ» ç°¡å˜ãªæ—¥å¸¸ä¼šè©±ã‚„ã€èº«è¿‘ãªè©±é¡Œã«ã¤ã„ã¦ã®çŸ­ã„æ–‡ç« ã®èª­ã¿æ›¸ããŒã§ãã¾ã™ã€‚
+        <br> ãƒ» ã‚†ã£ãã‚Šã‚ã‹ã‚Šã‚„ã™ãè©±ã—ã¦ã‚‚ã‚‰ã†ã¨èãã¨ã‚Œã¾ã™ãŒã€æ™®é€šã®é€Ÿã•ã®è©±ã‚’èãã®ã¯é›£ã—ã„ã§ã™ã€‚
+        <br> ãƒ» 200ï½300å­—ç¨‹åº¦ã®æ¼¢å­—ã‚’èª­ã‚€ã“ã¨ãŒã§ãã¾ã™ã€‚</td>
+    </tr>
+  </table>
+  <br>
+  <table border="0" cellspacing="0" cellpadding="0" bgcolor="#CCCCCC">
+    <tr>
+      <td>
+        <a href="300.php">
+          <b>Advance to Level Check
+            <br> æ—¥æœ¬èªãƒ¬ãƒ™ãƒ«ãƒã‚§ãƒƒã‚¯ã¸ã™ã™ã‚€
+          </b>
+        </a>
+      </td>
+      <td>
+        <a href="300.php">
+          <b>&gt;&gt;&gt;</b>
+        </a>
+      </td>
+    </tr>
+  </table>
+  <br>
+  <table border="0" cellspacing="0" cellpadding="0" bgcolor="#CCCCCC">
+    <tr>
+      <td>
+        <a href="index-3.php"> &lt;&lt;&lt;Back</a>
+      </td>
+    </tr>
+  </table>
+  <p>ã€€ </p>
 </body>
 </html>
-

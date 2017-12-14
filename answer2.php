@@ -1,20 +1,24 @@
 <html>
+
 <head>
-<title>Q2 ANSWER</title>
-<meta http-equiv="Content-Type" content="text/html; charset=euc-jp">
+  <title>Q2 ANSWER</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=euc-jp">
 </head>
 
 <body bgcolor="#FFFFFF" text="#000000">
-Correct readings<br>
-<br>
-Í¢Æþ¡¦¡¦¡¦¤æ¤Ë¤å¤¦¡¡¡¡·ÐºÑ¡¦¡¦¡¦¤±¤¤¤¶¤¤¡¡<br>
-¡¡<br>
-´Ø·¸¡¦¡¦¡¦¤«¤ó¤±¤¤¡¡ ·Ð¸³¡¦¡¦¡¦¤±¤¤¤±¤ó¡¡¡¡<br>
-<br>
-À©ÅÙ¡¦¡¦¡¦¤»¤¤¤É¡¡¡¡¡¡½÷À­¡¦¡¦¡¦¤¸¤ç¤»¤¤<br>
-<br>
-µÁÌ³¡¦¡¦¡¦¤®¤à¡¡¡¡¡¡¡¡ÃÎ¼±¡¦¡¦¡¦¤Á¤·¤­¡¡¡¡<br>
-<br>
-Íî¤È¤¹¡¦¡¦¡¦<u>¤ª</u>¤È¤¹¡¡ ÃÙ¤ì¤ë¡¦¡¦¡¦<u>¤ª¤¯</u>¤ì¤ë 
+  Correct readings
+  <br>
+  <br> è¼¸å…¥ãƒ»ãƒ»ãƒ»ã‚†ã«ã‚…ã†ã€€ã€€çµŒæ¸ˆãƒ»ãƒ»ãƒ»ã‘ã„ã–ã„
+  <br>
+  <br> é–¢ä¿‚ãƒ»ãƒ»ãƒ»ã‹ã‚“ã‘ã„ã€€ çµŒé¨“ãƒ»ãƒ»ãƒ»ã‘ã„ã‘ã‚“
+  <br>
+  <br> åˆ¶åº¦ãƒ»ãƒ»ãƒ»ã›ã„ã©ã€€ã€€ã€€å¥³æ€§ãƒ»ãƒ»ãƒ»ã˜ã‚‡ã›ã„
+  <br>
+  <br> ç¾©å‹™ãƒ»ãƒ»ãƒ»ãŽã‚€ã€€ã€€ã€€ã€€çŸ¥è­˜ãƒ»ãƒ»ãƒ»ã¡ã—ã
+  <br>
+  <br> è½ã¨ã™ãƒ»ãƒ»ãƒ»
+  <u>ãŠ</u>ã¨ã™ã€€ é…ã‚Œã‚‹ãƒ»ãƒ»ãƒ»
+  <u>ãŠã</u>ã‚Œã‚‹
 </body>
+
 </html>

@@ -1,8 +1,7 @@
 <?php
 session_start();
 ?>
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
-"http://www.w3.org/TR/html4/strict.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html lang="ja">
 <meta http-equiv="Content-Type" content="text/html; charset=euc-jp">
 
@@ -12,102 +11,105 @@ session_start();
 
 <LINK REL="INDEX" HREF="./index.html">
 <STYLE>
-<!--
-.def{color:#000066;background:#c0ccc0;font:bold large "MSP¥´¥·¥Ã¥¯";}
--->
+  .def {
+    color: #000066;
+    background: #c0ccc0;
+    font: bold large "MSPã‚´ã‚·ãƒƒã‚¯";
+  }
 </STYLE>
 </head>
+
 <body>
-<HR>
+  <HR>
 
-<H1 class="center">550¥ì¥Ù¥ë</H1>
+  <H1 class="center">550ãƒ¬ãƒ™ãƒ«</H1>
 
-<HR>
-<HR>
-font size="4">&lt;Task 2&gt;<br>
-¡ã²İÂê£²¡ä</font> <br>
-<br>
-<table width="750" border="0" cellspacing="0" cellpadding="0">
-  <tr> 
-    <td>For the questions below, select the most appropriate word for the parentheses 
-      from the drug-down list on the right. After answering all of the questions, 
-      click the &quot;Next&quot; button at the bottom of the page. <br>
-      As reloading the page will cause the questions to change, please refrain 
-      from reloading the page.<br>
-      °Ê²¼¤ÎÊ¸¤Î¡Ê¡¡¡¡¡Ë¤ËÆş¤ë¤â¤Ã¤È¤âÅ¬Åö¤Ê¤³¤È¤Ğ¤ò¡¢±¦Ã¼¤ÎÁªÂò»è¤«¤é°ì¤ÄÁª¤ó¤Ç¤¯¤À¤µ¤¤¡£Á´Éô¤ÎÌäÂê¤ËÅú¤¨¤¿¤é¡¢°ìÈÖ²¼¤Î¡ãNext¡ä¥Ü¥¿¥ó¤ò¥¯¥ê¥Ã¥¯¤·¤Æ¤¯¤À¤µ¤¤¡£<br>
-      ²èÌÌ¤òºÆÆÉ¹ş¤¹¤ë¤È°ã¤¦ÌäÂê¤¬½Ğ¤Æ¤¯¤ë¤Î¤Ç¡¢ºÆÆÉ¹ş¤Ï¤·¤Ê¤¤¤Ç¤¯¤À¤µ¤¤¡£<br>
-    </td>
-  </tr>
-</table>
-<br>
-<hr>
-<FORM onsubmit="return FormCheck(this)" action="result.php" method="post">
-<input type=hidden name="NLEVEL" value="550">
-<?php
-for($i=1;$i<11;$i++){
-$id="Q".$i;
-print("<input type=hidden name=".$id." value=".$_POST[$id].">\n");
-}
-print("<table>");
-mt_srand((double)(microtime()*1000000));
-$j=0;
-$fl=fopen("test6.csv","r");
-while($mdat=fgetcsv($fl,400)){
-for($i=0;$i<count($mdat);$i++){
-$dat[$j+$i]=$mdat[$i];
-}
-$j=$j+$i;
-}
-$f=count($dat);
-fclose($fl);
+  <HR>
+  <HR> font size="4">&lt;Task 2&gt;
+  <br> ï¼œèª²é¡Œï¼’ï¼
+  </font>
+  <br>
+  <br>
+  <table width="750" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td>For the questions below, select the most appropriate word for the parentheses from the drug-down list on the right.
+        After answering all of the questions, click the &quot;Next&quot; button at the bottom of the page.
+        <br> As reloading the page will cause the questions to change, please refrain from reloading the page.
+        <br> ä»¥ä¸‹ã®æ–‡ã®ï¼ˆã€€ã€€ï¼‰ã«å…¥ã‚‹ã‚‚ã£ã¨ã‚‚é©å½“ãªã“ã¨ã°ã‚’ã€å³ç«¯ã®é¸æŠè‚¢ã‹ã‚‰ä¸€ã¤é¸ã‚“ã§ãã ã•ã„ã€‚å…¨éƒ¨ã®å•é¡Œã«ç­”ãˆãŸã‚‰ã€ä¸€ç•ªä¸‹ã®ï¼œNextï¼ãƒœã‚¿ãƒ³ã‚’ã‚¯ãƒªãƒƒã‚¯ã—ã¦ãã ã•ã„ã€‚
+        <br> ç”»é¢ã‚’å†èª­è¾¼ã™ã‚‹ã¨é•ã†å•é¡ŒãŒå‡ºã¦ãã‚‹ã®ã§ã€å†èª­è¾¼ã¯ã—ãªã„ã§ãã ã•ã„ã€‚
+        <br>
+      </td>
+    </tr>
+  </table>
+  <br>
+  <hr>
+  <FORM onsubmit="return FormCheck(this)" action="result.php" method="post">
+    <input type=hidden name="NLEVEL" value="550">
+    <?php
+      for ($i = 1; $i < 11; $i++) {
+        $id = "Q" . $i;
+        print("<input type=hidden name=" . $id . " value=" . $_POST[$id] . ">\n");
+      }
+      print("<table>");
+      mt_srand((double) (microtime() * 1000000));
+      $j = 0;
+      $fl = fopen("test6.csv", "r");
+      while ($mdat = fgetcsv($fl, 400)) {
+        for ($i = 0; $i < count($mdat); $i++) {
+          $dat[$j + $i] = $mdat[$i];
+        }
+        $j = $j + $i;
+      }
+      $f = count($dat);
+      fclose($fl);
 
-$inum=11;
+      $inum = 11;
 
-for($o=1;$o<5;$o++){
- do{
-  $qnum[$o]=mt_rand(0,9);
-  $qnum[$o]=$qnum[$o]*30;
-  $ckp=0;
-  for($l=$o-1;$l>0;$l--){
-   if($qnum[$o]==$qnum[$l]){
-    $ckp=1;
-   }
-  }
- }while($ckp>0);
-}
-for($n=1;$n<5;$n++){
-print("<tr><td><BR></td></tr>\n");
-for($m=$qnum[$n];$m<($qnum[$n]+30);$m=$m+6){
-$num=$m;
-for($k=1;$k<6;$k++){
- do{
-  $onum[$k]=mt_rand(1,5);
-  $ckp=0;
-  for($l=$k-1;$l>0;$l--){
-   if($onum[$k]==$onum[$l]){
-    $ckp=1;
-   }
-  }
- }while($ckp>0);
-}
-$pnum=$inum-10;
-print("<tr><td class=text>Q.".$pnum."<br>".$dat[$num]."</td><td><select name=Q".$inum++.">\n<option value=0> \n");
-for($j=1;$j<6;$j++){
-$opt[$onum[$j]]="<option value=".$j.">".$dat[$j+$num]."\n";
-}
-for($k=1;$k<6;$k++){
-print($opt[$k]);
-}
-print("</select></td></tr>\n");
-}
-}
-?>
-</TABLE>
-<HR>
-  <DIV class="left"> ¡¡¡¡ 
-    <INPUT type="submit" class="def"  value="¡¡¡¡Next¡¡¡¡">
-</DIV>
-</FORM>
+      for ($o = 1; $o < 5; $o++) {
+        do {
+          $qnum[$o] = mt_rand(0, 9);
+          $qnum[$o] = $qnum[$o] * 30;
+          $ckp = 0;
+          for ($l = $o - 1; $l > 0; $l--) {
+            if ($qnum[$o] == $qnum[$l]) {
+              $ckp = 1;
+            }
+          }
+        } while ($ckp > 0);
+      }
+      for ($n = 1; $n < 5; $n++) {
+        print("<tr><td><BR></td></tr>\n");
+        for ($m = $qnum[$n]; $m < ($qnum[$n] + 30); $m = $m + 6) {
+          $num = $m;
+          for ($k = 1; $k < 6; $k++) {
+            do {
+              $onum[$k] = mt_rand(1, 5);
+              $ckp = 0;
+              for ($l = $k - 1; $l > 0; $l--) {
+                if ($onum[$k] == $onum[$l]) {
+                  $ckp = 1;
+                }
+              }
+            } while ($ckp > 0);
+          }
+          $pnum = $inum - 10;
+          print("<tr><td class=text>Q." . $pnum . "<br>" . $dat[$num] . "</td><td><select name=Q" . $inum++ . ">\n<option value=0> \n");
+          for ($j = 1; $j < 6; $j++) {
+            $opt[$onum[$j]] = "<option value=" . $j . ">" . $dat[$j + $num] . "\n";
+          }
+          for ($k = 1; $k < 6; $k++) {
+            print($opt[$k]);
+          }
+          print("</select></td></tr>\n");
+        }
+      }
+    ?>
+      </TABLE>
+      <HR>
+      <DIV class="left">
+        <INPUT type="submit" class="def" value="ã€€ã€€Nextã€€ã€€">
+      </DIV>
+  </FORM>
 </body>
-</html>
 
+</html>
