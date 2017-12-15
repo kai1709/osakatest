@@ -3,6 +3,8 @@
 <head>
   <title>Level Check - 3</title>
   <meta http-equiv="Content-Type" content="text/html; charset=euc-jp">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  <link rel="stylesheet" href="/style.css">
   <script language="JavaScript">
     function MM_swapImgRestore() { //v3.0
       var i, x, a = document.MM_sr; for (i = 0; a && i < a.length && (x = a[i]) && x.oSrc; i++) x.src = x.oSrc;
@@ -32,7 +34,7 @@
   </script>
 </head>
 
-<body bgcolor="#FFFFFF" text="#000000" onLoad="MM_preloadImages('100_ov.gif','200_ov.gif','300_ov.gif','400_ov.gif','500_ov.gif','550_ov.gif')"
+<body text="#000000" onLoad="MM_preloadImages('100_ov.gif','200_ov.gif','300_ov.gif','400_ov.gif','500_ov.gif','550_ov.gif')"
   link="#000000" vlink="#000000" alink="#000000">
   <STYLE type=text/css>
     A:link {
@@ -51,108 +53,73 @@
       TEXT-DECORATION: underline;
     }
   </STYLE>
-  <div align="left">
-    <table border="0" cellspacing="0" cellpadding="0" align="center" width="600">
-      <tr>
-        <td bgcolor="#D3DEEB" align="center">
-          <b>¡¡Class Level Selection
-            <br> ÆüËÜ¸ì¥ì¥Ù¥ë¤ÎÁªÂò
-          </b>
-        </td>
-      </tr>
-    </table>
-    <br>
-    <table width="600" border="0" cellspacing="0" cellpadding="0" align="center">
-      <tr>
-        <td>
+  <div class="container">
+    <div class="title-index">
+          <p>ï¿½ï¿½Class Level Selection
+            <br> ï¿½ï¿½ï¿½Ü¸ï¿½ï¿½Ù¥ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+          </p>
+    </div>
+    <div class="content-index">
           <font size="4">Click each button, and carefully read the given explanations.</font>
           <font size="1">
             <br>
-          </font>¤½¤ì¤¾¤ì¤Î¥ì¥Ù¥ë¤Î¥Ü¥¿¥ó¤ò¥¯¥ê¥Ã¥¯¤·¤Æ¡¢ÀâÌÀ¤ò¤è¤¯ÆÉ¤ó¤Ç¤¯¤À¤µ¤¤¡£
+          </font>ï¿½ï¿½ï¿½ì¤¾ï¿½ï¿½Î¥ï¿½Ù¥ï¿½Î¥Ü¥ï¿½ï¿½ï¿½ò¥¯¥ï¿½Ã¥ï¿½ï¿½ï¿½ï¿½Æ¡ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½è¤¯ï¿½É¤ï¿½Ç¤ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
           <br>
           <p>
             <font size="4">After reading the explanations, choose the level that best reflects your proficiency level, and click &quot;Advance
               to Level Check&quot; to proceed to the level check test.</font>
-            <br> ÀâÌÀ¤òÆÉ¤ó¤Ç¡¢¥ì¥Ù¥ë¤¬¼«Ê¬¤Ë¤¢¤Ã¤Æ¤¤¤ë¤È»×¤Ã¤¿¤é¡¢¡ÖÆüËÜ¸ì¥ì¥Ù¥ë¥Á¥§¥Ã¥¯¤Ø¤¹¤¹¤à¡×¤ò¥¯¥ê¥Ã¥¯¤·¤Æ¡¢¼«¸Ê¿ÇÃÇ¤Ë¿Ê¤ó¤Ç¤¯¤À¤µ¤¤¡£
+            <br> ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É¤ï¿½Ç¡ï¿½ï¿½ï¿½Ù¥ë¤¬ï¿½ï¿½Ê¬ï¿½Ë¤ï¿½ï¿½Ã¤Æ¤ï¿½ï¿½ï¿½È»×¤Ã¤ï¿½ï¿½é¡¢ï¿½ï¿½ï¿½ï¿½ï¿½Ü¸ï¿½ï¿½Ù¥ï¿½ï¿½ï¿½ï¿½ï¿½Ã¥ï¿½ï¿½Ø¤ï¿½ï¿½ï¿½ï¿½ï¿½×¤ò¥¯¥ï¿½Ã¥ï¿½ï¿½ï¿½ï¿½Æ¡ï¿½ï¿½ï¿½ï¿½Ê¿ï¿½ï¿½Ç¤Ë¿Ê¤ï¿½Ç¤ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
             <br>
           </p>
-        </td>
-      </tr>
-    </table>
-    <br>
-    <br>
-    <br>
-    <table width="600" border="1" cellspacing="0" cellpadding="0" bordercolor="#C0CFE2" align="center">
-      <tr>
-        <td>
-          <table width="600" border="0" cellspacing="0" cellpadding="0">
-            <tr align="center">
-              <td width="200">
-                <a href="100info.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image1','','100_ov.gif',1)">
-                  <br>
-                  <img name="Image1" border="0" src="100.gif" width="145" height="48">
-                </a>
-                <br> ÆþÌç¥ì¥Ù¥ë
-                <br> (Introductory) </td>
-              <td width="200">
-                <a href="200info.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('200','','200_ov.gif',1)">
-                  <br>
-                  <img name="200" border="0" src="200.gif" width="145" height="48">
-                </a>
-                <br> ½éµé¥ì¥Ù¥ë
-                <br> (Beginner) </td>
-              <td width="200">
-                <a href="300info.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('300','','300_ov.gif',1)">
-                  <br>
-                  <img name="300" border="0" src="300.gif" width="145" height="48">
-                </a>
-                <br> ÃæµéÁ°´ü¥ì¥Ù¥ë
-                <br> (Intermediate) </td>
-            </tr>
-            <tr>
-              <td height="20" width="200">¡¡</td>
-              <td height="20" width="200">¡¡</td>
-              <td height="20" width="200">¡¡</td>
-            </tr>
-            <tr align="center">
-              <td width="200">
-                <a href="400info.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('400','','400_ov.gif',1)">
-                  <br>
-                  <img name="400" border="0" src="400.gif" width="145" height="48">
-                </a>
-                <br> Ãæµé¸å´ü¥ì¥Ù¥ë
-                <br> (Upper-Intermediate)
-                <br>
-                <br>
-              </td>
-              <td width="200">
-                <a href="500info.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('500','','500_ov.gif',1)">
-                  <br>
-                  <img name="500" border="0" src="500.gif" width="145" height="48">
-                </a>
-                <br> ¾åµé¥ì¥Ù¥ë
-                <br> (Advanced)
-                <br>
-                <br>
-              </td>
-              <td width="200">
-                <a href="600info.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('600','','600_ov.gif',1)">
-                  <br>
-                  <img name="600" border="0" src="600.gif" width="145" height="48">
-                </a>
-                <br> Ä¶¾åµé ¥ì¥Ù¥ë
-                <br> (Upper-Advanced)
-                <br>
-                <br>
-              </td>
-            </tr>
-          </table>
-        </td>
-      </tr>
-    </table>
-    <div align="center">
-      <br>
-      <a href="index-2.php">&lt;&lt;Back</a>
+    </div>
+    <div class="row level-nav-container">
+      <div class="col-sm-4 level-nav">
+        <a href="100info.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image1','','100_ov.gif',1)">
+          <img name="Image1" border="0" src="100.gif" width="145" height="48">
+        </a>
+        <br> ï¿½ï¿½ï¿½ï¿½ï¿½Ù¥ï¿½
+        <br> (Introductory) </td>
+      </div>
+      <div class="col-sm-4 level-nav">
+        <a href="200info.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('200','','200_ov.gif',1)">
+          <img name="200" border="0" src="200.gif" width="145" height="48">
+        </a>
+        <br> ï¿½ï¿½ï¿½ï¿½Ù¥ï¿½
+        <br> (Beginner) </td>
+      </div>
+      <div class="col-sm-4 level-nav">
+        <a href="300info.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('300','','300_ov.gif',1)">
+          <img name="300" border="0" src="300.gif" width="145" height="48">
+        </a>
+        <br> ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ù¥ï¿½
+      <br> (Intermediate) </td>
+      </div>
+      <div class="col-sm-4 level-nav">
+        <a href="400info.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('400','','400_ov.gif',1)">
+          <img name="400" border="0" src="400.gif" width="145" height="48">
+        </a>
+        <br> ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ù¥ï¿½
+      <br> (Upper-Intermediate)
+      </div>
+      <div class="col-sm-4 level-nav">
+        <a href="500info.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('500','','500_ov.gif',1)">
+          <img name="500" border="0" src="500.gif" width="145" height="48">
+        </a>
+        <br> ï¿½ï¿½ï¿½ï¿½Ù¥ï¿½
+      <br> (Advanced)
+      </div>
+      <div class="col-sm-4 level-nav">
+        <a href="600info.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('600','','600_ov.gif',1)">
+          <img name="600" border="0" src="600.gif" width="145" height="48">
+        </a>
+        <br> Ä¶ï¿½ï¿½ï¿½ ï¿½ï¿½Ù¥ï¿½
+        <br> (Upper-Advanced)
+      </div>
+  </div>
+    <div align="center" style="padding-top: 20px">
+      <button class="btn btn-default">
+      <a href="index-2.php">Back</a>
+      </button>
       <br>
       <br>
       <hr width="700" size="1" noshade align="center">

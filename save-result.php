@@ -1,8 +1,8 @@
 <?php
 	// require_once("setting/define_config.php");
 	require_once("function.php");
-	// require_once("excel/PHPExcel.php");
-    // require_once("excel/PHPExcel/IOFactory.php");
+	require_once("excel/PHPExcel.php");
+    require_once("excel/PHPExcel/IOFactory.php");
     
     // Config connect
     $HOST = "localhost";
@@ -65,15 +65,6 @@
 		echo "Query did not execute. \n";
 		echo pg_last_error();
 	}
-
-	// if (pg_num_rows($result) == 0) {
-	// 	echo "0 records \n";
-	// } else {
-	// 	while ($row = pg_fetch_row($result)) {
-	// 		echo "Fullname: $row[0]  Username: $row[1] Password: $row[2]";
-	// 		echo "<br />\n";
-	// 	}
-	// }
 	pg_close($conn);
 	//セッション作成
 	session_start();

@@ -1,0 +1,84 @@
+body {
+    background-color: #eeeeee;
+}
+.container {
+    background-color: white;
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 100%;
+}
+
+.title-index {
+    text-align: center;
+    font-size: 20px;
+    border: 1px solid #cecece;
+    padding: 20px;
+    border-radius: 4px;
+    background-color: #382755;
+    color: white;
+}
+
+.content-index {
+    padding: 20px;
+    font-size: 17px;
+}
+.button-index {
+    text-align: center;
+}
+
+.btn-next-page {
+    padding: 10px;
+    color: white !important;
+    border-radius: 5px;
+}
+
+.box-yellow {
+    background-color: #FFFF99;
+    padding: 10px;
+    border: 1px solid #cecece;
+    border-radius: 5px;
+}
+.box-yellow p {
+    vertical-align: middle;
+}
+.box-teal {
+    background-color: #AFD8D8;
+    padding: 10px;
+    border: 1px solid #cecece;
+    border-radius: 5px;
+}
+.box-blue {
+    background-color: #0296EE;
+    padding: 10px;
+    border: 1px solid #cecece;
+    border-radius: 5px;
+}
+
+.btn-next-container {
+    float: right;
+}
+.btn-back-container {
+    float: left;
+}
+
+.a-no-decor {
+    color: black;
+    text-decoration: none;
+}
+
+.a-no-decor:hover {
+    text-decoration: none;
+}
+
+.level-nav-container {
+    margin-left: 5%;
+    margin-right: 5%;
+    border: 1px solid #cecece;
+    border-radius: 5px;
+    padding: 10px;
+}
+.level-nav {
+    text-align: center;
+    padding: 10px;
+}
