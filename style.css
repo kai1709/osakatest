@@ -18,6 +18,15 @@ body {
     background-color: #382755;
     color: white;
 }
+.title-info {
+    text-align: center;
+    font-size: 20px;
+    border: 1px solid #cecece;
+    padding: 20px;
+    border-radius: 4px;
+    background-color: #ff7f50;
+    color: white;
+}
 
 .content-index {
     padding: 20px;
@@ -57,6 +66,7 @@ body {
 
 .btn-next-container {
     float: right;
+    margin-bottom: 30px;
 }
 .btn-back-container {
     float: left;
@@ -81,4 +91,72 @@ body {
 .level-nav {
     text-align: center;
     padding: 10px;
+}
+.center {
+    text-align: center;
+}
+
+.description {
+    font-size: 16px;
+}
+
+.assessment table {
+    width: 100%;
+}
+
+.assessment-title {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.question-index {
+    color: white;
+    background-color: #3072cb;
+    padding: 3px;
+    border-radius: 3px;
+}
+
+.question {
+    font-size: 15px;
+    font-weight: 700;
+    padding-bottom: 10px;
+}
+
+.radio-answer {
+    text-align: center;
+    border: 1px solid #cecece;
+    border-radius: 4px;
+}
+
+.question-content {
+    border: 1px solid #cecece;
+    border-radius: 4px;
+    padding: 5px;
+}
+
+.task-title {
+    color: white;
+    background-color: #23a393;
+    padding: 10px;
+    font-size: 18px;
+    border-radius: 4px;
+    margin-top: 10px;
+}
+
+.margin-top-20 {
+    margin-top: 20px;
+}
+
+.question-div {
+    padding: 20px;
+    font-size: 16px;
+}
+
+.select-answer {
+    width: 100%;
+}
+
+.form-group {
+    margin-bottom: 0;
+    padding-top: 10px;
 }

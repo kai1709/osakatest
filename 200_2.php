@@ -6,8 +6,8 @@ session_start();
 <meta http-equiv="Content-Type" content="text/html; charset=euc-jp">
 
 <TITLE>Level 200 Task 2</TITLE>
-
-<LINK HREF="./style.css" REL="stylesheet" TYPE="text/css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  <link rel="stylesheet" href="/style.css">
 <LINK REL="INDEX" HREF="./index.html">
 <STYLE>
   .def {
@@ -19,28 +19,26 @@ session_start();
 </head>
 
 <body>
-  <HR>
-
+  <div class="container">
+  <div class="title-index">
   <H1 class="center">200鐃緒申戰鐃?</H1>
-
-  <HR>
-  <hr>
-  <font size="4">&lt;Task 2&gt;
+  </div>
+  <div class="center">
+    <div class="margin-top-20"><span class="task-title">Task 2</span> </div>
     <br> 鐃緒申鐃緒申蝪駕申鐃?
-  </font>
+      <br>
+      <br>
+    </font>
+  </div>
   <br>
-  <br>
-  <table width="750" border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td>For the questions below, select the most appropriate word for the parentheses from the drug-down list on the right.
+  <div>
+      For the questions below, select the most appropriate word for the parentheses from the drug-down list on the right.
         After answering all of the questions, click the &quot;Next&quot; button at the bottom of the page.
         <br> As reloading the page will cause the questions to change, please refrain from reloading the page.
         <br> 鐃淑駕申鐃緒申文鐃塾（￥申鐃緒申鐃祝わ申鐃緒申鐃緒申鐃獣とわ申適鐃緒申鐃淑わ申鐃夙ばを、縁申端鐃緒申鐃緒申鐃緒申茲?鐃緒申鐃緒申鐃緒申鐃緒申任鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申蕁?鐃緒申鐃瞬駕申鐃塾￥申Next鐃緒申椒鐃緒申鐃薯クワ申奪鐃緒申鐃緒申討鐃緒申鐃緒申鐃緒申鐃緒申鐃?
         <br> 鐃緒申鐃縮わ申鐃緒申氷鐃緒申鐃緒申鐃夙違う鐃緒申鐃所が鐃出てわ申鐃緒申里如鐃緒申鐃緒申氷鐃緒申呂鐃緒申覆鐃緒申任鐃緒申鐃緒申鐃緒申鐃緒申鐃?
         <br>
-      </td>
-    </tr>
-  </table>
+  </div>
   <br>
   <HR>
 
@@ -51,10 +49,9 @@ session_start();
         $id = "Q" . $i;
         print("<input type=hidden name=" . $id . " value=" . $_POST[$id] . ">\n");
       }
-      print("<table>");
       mt_srand((double) (microtime() * 1000000));
       $j = 0;
-      $fl = fopen("testKai.csv", "r");
+      $fl = fopen("test2.csv", "r");
       while ($mdat = fgetcsv($fl, 160)) {
         for ($i = 0; $i < count($mdat); $i++) {
           $dat[$j + $i] = $mdat[$i];
@@ -80,22 +77,23 @@ session_start();
           } while ($ckp > 0);
         }
         $pnum = $inum - 10;
-        print("<tr><td class=text>Q." . $pnum . "<br>" . $dat[$num] . "</td><td><select name=Q" . $inum++ . ">\n<option value=0> \n");
+        print("<div class='row question-div'><div class='col-sm-9'>Q." . $pnum . "<br>" . $dat[$num] . "</div><div class='col-sm-3 form-group'><select class='select-answer form-control' name=Q" . $inum++ . ">\n<option value=0> \n");
         for ($j = 1; $j < 6; $j++) {
           $opt[$onum[$j]] = "<option value=" . $j . ">" . $dat[$j + $num] . "\n";
         }
         for ($k = 1; $k < 6; $k++) {
           print($opt[$k]);
         }
-        print("</select></td></tr>\n");
+        print("</select></div></div>\n");
       }
     ?>
-      </table>
       <HR>
-      <DIV class="left"> 鐃緒申鐃緒申
-        <INPUT type="submit" class="def" value="鐃緒申鐃緒申Next鐃緒申鐃緒申">
-      </DIV>
+      <div class="btn-next-container">
+      鐃緒申鐃緒申
+      <input type="submit" class="btn btn-primary" value="鐃緒申鐃緒申Next鐃緒申鐃緒申" name="submit">
+    </div>
   </FORM>
+  </div>
 </body>
 
 </html>

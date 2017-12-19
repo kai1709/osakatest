@@ -3,6 +3,8 @@
 <head>
   <title>Level 400 Description</title>
   <meta http-equiv="Content-Type" content="text/html; charset=euc-jp">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  <link rel="stylesheet" href="/style.css">
 </head>
 
 <body bgcolor="#FFFFFF" text="#000000" link="#000000" vlink="#000000" alink="#333333">
@@ -23,23 +25,19 @@
       TEXT-DECORATION: underline;
     }
   </STYLE>
-  <table width="600" border="0" cellspacing="0" cellpadding="0" bgcolor="#D3DEEB">
-    <tr>
-      <td>
-        <b>Level 400 (Upper-Intermediate)
+  <div class="container">
+  <div class="title-index">
+          <p>Level 400 (Upper-Intermediate)
           <br> ４００レベル（中級後期）
-        </b>
-      </td>
-    </tr>
-  </table>
+          </p>
+    </div>
+    <div class="content-index">
   <h3>
     <font color="#000066">Level Description
       <br> レベルの概要
     </font>
   </h3>
-  <table width="600" border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td>This level is appropriate for those who:
+    This level is appropriate for those who:
         <br> ・Have attained an upper-intermediate proficiency level.
         <br> ・Can participate in everyday conversation with no problem, and use honorific speech towards professors and others
         of rank.
@@ -50,35 +48,26 @@
         <br> ・ 中級後半レベルの日本語力をもつ人のためのレベルです。
         <br> ・ 日常のコミュニケーションは問題なくでき、先生や目上の人には敬語を使って話せます。
         <br> ・ 興味のある話題については、短い新聞記事を読んだりニュースを聞いたりできますが、長い文章や複雑な内容を理解するのは難しいです。
-        <br> ・ 500字程度の漢字を読むことができます。</td>
-    </tr>
-  </table>
-  <br>
-  <table border="0" cellspacing="0" cellpadding="0" bgcolor="#CCCCCC">
-    <tr>
-      <td>
-        <a href="400.php">
-          <b>Advance to Level Check
-            <br> 日本語レベルチェックへすすむ
-          </b>
-        </a>
-      </td>
-      <td>
-        <a href="400.php">
-          <b>&gt;&gt;&gt;</b>
-        </a>
-      </td>
-    </tr>
-  </table>
-  <br>
-  <table border="0" cellspacing="0" cellpadding="0" bgcolor="#CCCCCC">
-    <tr>
-      <td>
-        <a href="index-3.php"> &lt;&lt;&lt;Back</a>
-      </td>
-    </tr>
-  </table>
-  <p>　</p>
+        <br> ・ 500字程度の漢字を読むことができます。
+  </div>
+  <div style="float:left; width: 100%; padding-bottom: 20px;">
+  <div class="btn-next-container">
+      <a href="400.php">
+        <button class="btn btn-primary">
+        <font size="2">Advance to Level Check
+          <br> 日本語レベルチェックへすすむ
+        </font>
+        </button>
+      </a>
+  </div>
+  <div class="btn-back-container">
+    <button class="btn btn-default">
+      <a href="index-3.php" class="a-no-decor">Back</a>
+    </button>
+  </div>
+      
+</div>
+  </div>
 </body>
 
 </html>
