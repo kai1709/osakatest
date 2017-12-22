@@ -3,22 +3,22 @@ session_start();
 $_SESSION["t_level"] = 200;
 ?>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<HTML lang="ja">
+<html lang="ja">
 
-<HEAD>
+<head>
   <meta http-equiv="Content-Type" content="text/html; charset=euc-jp">
-  <TITLE>Level 200 Task 1</TITLE>
+  <title>Level 200 Task 1</title>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
   <link rel="stylesheet" href="/style.css">
   <!-- <LINK HREF="./style.css" REL="stylesheet" TYPE="text/css"> -->
   <LINK REL="INDEX" HREF="./index.html">
-  <STYLE>
+  <style>
     .def {
       color: #000066;
       background: #c0ccc0;
       font: bold large "MSP鐃緒申鐃緒申鐃獣ワ申";
     }
-  </STYLE>
+  </style>
   <script language="JavaScript">
     function MM_openBrWindow(theURL, winName, features) {
       //v2.0
@@ -196,109 +196,368 @@ $_SESSION["t_level"] = 200;
       // }
     }
   </script>
-</HEAD>
+</head>
 
-<BODY>
+<body>
   <div class="container">
-  <div class="title-index">
-  <H1 class="center">200鐃緒申戰鐃?(Level 200)</H1>
+  <form onsubmit="return FormCheck(this);" action="200_2.php" method="post">
+<div class="row">
+<div class="col-md-12">
+  <div class="panel panel-default ">
+    <div class="panel-heading">
+      <div class="row">
+        <div class="col-xs-6 col-md-6" style="font-size:1.2em">
+          Level 200 - Task 1
+        </div>
+        <div class="col-xs-6 col-md-6" style="font-size:1.2em">
+          200レベル - 課題１
+        </div>
+      </div>
+    </div>
+    <div class="panel-body">
+      <div class="row">
+        <div class="col-xs-6 col-md-6">
+          <p>
+            Please read Q1 - Q10 below, and think carefully about your Japanese level.
+            Choose a number between 1 (Difficult) and 5 (Easy), and click the button next to the number.
+            After answering all of the questions, click the "Go to the next question" button at the bottom of the page. <br>
+            Leave the choices of questions unselected when you do not know the answer.
+          </p>
+        </div>
+        <div class="col-xs-6 col-md-6">
+          <p>
+            以下のQ1～Q10までの質問について、自分の現在の日本語能力について内省してください。
+            そして、１（難しい）～５（やさしい）までの中からひとつを選んで、横にあるボタンをクリックしてください。
+            全部の問題に答えたら、一番下の「次の課題へ」のボタンをクリックしてください。<br>
+            わからないときは、無理に答えないでください。
+          </p>
+        </div>
+      </div>
+    </div>
   </div>
-
-
-
-
-  <div class="center">
-    <div class="margin-top-20"><span class="task-title">Task 1</span> </div>
-      <br> 鐃緒申鐃緒申蝪縁申鐃?
-      <br>
-      <br>
-    </font>
-  </div>
-  <div class="description">
-  Please read Q1 - Q10 below, and think carefully about your Japanese level. Choose a number between 1 (Difficult)
-          and 5 (Easy), and click the button next to the number. After answering all of the questions, click the &quot;Next&quot;
-          button at the bottom of the page.
-          <br> You cannot advance to the next page unless you have answered all of the questions on the page
-          <br> 鐃淑駕申鐃緒申Q1鐃緒申Q10鐃殉での種申鐃緒申砲弔鐃緒申董鐃緒申鐃淑?鐃塾醐申鐃淳わ申鐃緒申鐃旬醐申能鐃熟につわ申鐃緒申鐃緒申覆鐃緒申討鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申董鐃緒申鐃緒申鐃緒申颪靴鐃緒申法鐃緒申鐃緒申覆笋居申鐃緒申鐃緒申砲泙任鐃緒申罎?鐃緒申劼箸弔鐃緒申鐃緒申鐃叔￥申鐃緒申鐃祝わ申鐃緒申椒鐃緒申鐃薯クワ申奪鐃緒申鐃緒申討鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申蕁?鐃緒申鐃瞬駕申鐃塾￥申Next鐃緒申椒鐃緒申鐃薯クワ申奪鐃緒申鐃緒申討鐃緒申鐃緒申鐃緒申鐃緒申鐃?
-          <br> 鐃緒申鐃銃わ申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申覆鐃緒申鐃出種申鐃祝進むこ鐃夙わ申鐃叔わ申鐃淑わ申鐃塾わ申鐃緒申佞鐃緒申討鐃緒申鐃緒申鐃緒申鐃緒申鐃?
-          <br>
-  </div>
-  <div class="assessment">
-    <div class="assessment-title">
-      <br> Assessment(評鐃緒申鐃緒申鐃?) </div>
-    <br>
-    <table border="1" cellpadding="0" cellspacing="0" height="49">
-      <tr class="ltext">
-        <td class="ltext" width="122">
-          <div align="center">
-            <font size="2"> Difficult
-              <br> 鐃準ず鐃緒申鐃緒申鐃緒申
-            </font>
-          </div>
-        </td>
-        <td class="ltext" width="166">
-          <div align="center">
-            <font size="2"> Relatively difficult
-              <br> 鐃緒申鐃準ず鐃緒申鐃緒申鐃緒申
-            </font>
-          </div>
-        </td>
-        <td class="ltext" width="143">
-          <div align="center">
-            <font size="2"> Can't tell
-              <br> 鐃宿わ申鐃緒申箸鐃緒申鐃緒申鐃淑わ申
-            </font>
-          </div>
-        </td>
-        <td class="ltext" width="130">
-          <div align="center">
-            <font size="2"> Relatively easy
-              <br> 鐃緒申鐃巡さ鐃緒申鐃緒申
-            </font>
-          </div>
-        </td>
-        <td class="ltext" width="113">
-          <div align="center">
-            <font size="2">Easy
-              <br> 鐃巡さ鐃緒申鐃緒申
-            </font>
-          </div>
-        </td>
-      </tr>
-      <tr align="center">
-        <td class="ltext" width="122">
-          <div align="center">
-            <font size="2">鐃緒申</font>
-          </div>
-        </td>
-        <td class="ltext" width="166">
-          <div align="center">
-            <font size="2">鐃緒申</font>
-          </div>
-        </td>
-        <td class="ltext" width="143">
-          <div align="center">
-            <font size="2">鐃緒申</font>
-          </div>
-        </td>
-        <td class="ltext" width="130">
-          <div align="center">
-            <font size="2">鐃緒申</font>
-          </div>
-        </td>
-        <td class="ltext" width="113">
-          <div align="center">
-            <font size="2">鐃緒申</font>
-          </div>
-        </td>
-      </tr>
-    </table>
-
-    <br>
-  </DIV>
-  <FORM onsubmit="return FormCheck(this);" action="200_2.php" method="post">
+</div>
+</div>
     <hr>
-    <div class="question-container row">
+																<div class="row">
+						<div class="col-xs-2 col-md-1" style="font-size:1.2em">Q1.</div>
+						<div class="col-xs-10 col-md-3">
+							<p>Can read and write Hiragana or Katakana.</p>
+							<br>
+							<p>ひらがな・カタカナ全ての読み書きができる。</p>
+						</div>
+						<div class="col-xs-12 col-md-4">
+							いそがしい　ぎゅうにゅう　たんじょうび　としょかん　ばんごはん　ゆうびんきょく　れいぞうこ<br> アパート　エレベーター　コンピューター　スリッパ　パーティー　ボールペン　 レストラン													</div>
+						<div class="col-xs-12 col-md-4">
+							<div class="your_answer">
+								<label class="radio-inline">
+									<input type="radio" name="Q1" value="1" required=""> 1
+								</label>
+								<label class="radio-inline">
+									<input type="radio" name="Q1" value="2" required=""> 2
+								</label>
+								<label class="radio-inline">
+									<input type="radio" name="Q1" value="3" required=""> 3
+								</label>
+								<label class="radio-inline">
+									<input type="radio" name="Q1" value="4" required=""> 4
+								</label>
+								<label class="radio-inline">
+									<input type="radio" name="Q1" value="5" required=""> 5
+								</label>
+							</div>
+						</div>
+					</div>
+					<hr>
+																<div class="row">
+						<div class="col-xs-2 col-md-1" style="font-size:1.2em">Q2.</div>
+						<div class="col-xs-10 col-md-3">
+							<p>Can read the following kanji words correctly.</p>
+							<br>
+							<p>以下の漢字語を正しく読むことができる。</p>
+						</div>
+						<div class="col-xs-12 col-md-4">
+							先生　留学生　家族　病院　地下鉄　教室　意味														<br><a href="#" role="button" class="btn btn-info btn-xs pull-left" style="margin-top:3%;" data-toggle="collapse" data-target="#answer2">正解を表示(Answer)</a>
+							<div id="answer2" class="collapse" style="margin-top:10%">
+								<div class="well well-sm">
+									Correct readings<br> <br> 先生・・・せんせい　　 留学生・・・りゅうがくせい　<br> 　<br> 家族・・・かぞく　　　　 病院・・・びょういん　　<br> <br> 地下鉄・・・ちかてつ　 教室・・・きょうしつ<br> <br> 意味・・・いみ　　　　 								</div>
+							</div>
+													</div>
+						<div class="col-xs-12 col-md-4">
+							<div class="your_answer">
+								<label class="radio-inline">
+									<input type="radio" name="Q2" value="1" required=""> 1
+								</label>
+								<label class="radio-inline">
+									<input type="radio" name="Q2" value="2" required=""> 2
+								</label>
+								<label class="radio-inline">
+									<input type="radio" name="Q2" value="3" required=""> 3
+								</label>
+								<label class="radio-inline">
+									<input type="radio" name="Q2" value="4" required=""> 4
+								</label>
+								<label class="radio-inline">
+									<input type="radio" name="Q2" value="5" required=""> 5
+								</label>
+							</div>
+						</div>
+					</div>
+					<hr>
+																<div class="row">
+						<div class="col-xs-2 col-md-1" style="font-size:1.2em">Q3.</div>
+						<div class="col-xs-10 col-md-3">
+							<p>Can understand the following kanji words.</p>
+							<br>
+							<p>以下の言葉の意味が理解できる。</p>
+						</div>
+						<div class="col-xs-12 col-md-4">
+							大学　外国人　来年　会社　自転車　映画　旅行														<br><a href="#" role="button" class="btn btn-info btn-xs pull-left" style="margin-top:3%;" data-toggle="collapse" data-target="#answer3">正解を表示(Answer)</a>
+							<div id="answer3" class="collapse" style="margin-top:10%">
+								<div class="well well-sm">
+									Meanings<br> <br> 大学・・・university　　外国人・・・foreigner　<br> 　<br> 来年・・・next year 　 会社・・・・・company　　<br> <br> 自転車・・・bicycle 　　映画・・・movie<br> <br> 旅行・・・travel　　　 								</div>
+							</div>
+													</div>
+						<div class="col-xs-12 col-md-4">
+							<div class="your_answer">
+								<label class="radio-inline">
+									<input type="radio" name="Q3" value="1" required=""> 1
+								</label>
+								<label class="radio-inline">
+									<input type="radio" name="Q3" value="2" required=""> 2
+								</label>
+								<label class="radio-inline">
+									<input type="radio" name="Q3" value="3" required=""> 3
+								</label>
+								<label class="radio-inline">
+									<input type="radio" name="Q3" value="4" required=""> 4
+								</label>
+								<label class="radio-inline">
+									<input type="radio" name="Q3" value="5" required=""> 5
+								</label>
+							</div>
+						</div>
+					</div>
+					<hr>
+																<div class="row">
+						<div class="col-xs-2 col-md-1" style="font-size:1.2em">Q4.</div>
+						<div class="col-xs-10 col-md-3">
+							<p>Can make simple salutations/greetings to others.</p>
+							<br>
+							<p>人と会った時にきちんとあいさつができる。</p>
+						</div>
+						<div class="col-xs-12 col-md-4">
+							Example(例)：<br>おはようございます。今日はさむいですね。<br>こんにちは。おひさしぶりですね。お元気でしたか。													</div>
+						<div class="col-xs-12 col-md-4">
+							<div class="your_answer">
+								<label class="radio-inline">
+									<input type="radio" name="Q4" value="1" required=""> 1
+								</label>
+								<label class="radio-inline">
+									<input type="radio" name="Q4" value="2" required=""> 2
+								</label>
+								<label class="radio-inline">
+									<input type="radio" name="Q4" value="3" required=""> 3
+								</label>
+								<label class="radio-inline">
+									<input type="radio" name="Q4" value="4" required=""> 4
+								</label>
+								<label class="radio-inline">
+									<input type="radio" name="Q4" value="5" required=""> 5
+								</label>
+							</div>
+						</div>
+					</div>
+					<hr>
+																<div class="row">
+						<div class="col-xs-2 col-md-1" style="font-size:1.2em">Q5.</div>
+						<div class="col-xs-10 col-md-3">
+							<p>Can make simple self-introductions including your name, home country, and field of specialty.</p>
+							<br>
+							<p>　名前、国籍、専門分野も含めた簡単な自己紹介ができる。</p>
+						</div>
+						<div class="col-xs-12 col-md-4">
+							Example(例)：<br>はじめまして。大阪大学の留学生（りゅうがくせい）の○○と申（もう）します。 △△から来ました。工学部（こうがくぶ）で××を研究（けんきゅう） しています。 どうぞよろしくお願（ねが） いします。													</div>
+						<div class="col-xs-12 col-md-4">
+							<div class="your_answer">
+								<label class="radio-inline">
+									<input type="radio" name="Q5" value="1" required=""> 1
+								</label>
+								<label class="radio-inline">
+									<input type="radio" name="Q5" value="2" required=""> 2
+								</label>
+								<label class="radio-inline">
+									<input type="radio" name="Q5" value="3" required=""> 3
+								</label>
+								<label class="radio-inline">
+									<input type="radio" name="Q5" value="4" required=""> 4
+								</label>
+								<label class="radio-inline">
+									<input type="radio" name="Q5" value="5" required=""> 5
+								</label>
+							</div>
+						</div>
+					</div>
+					<hr>
+																<div class="row">
+						<div class="col-xs-2 col-md-1" style="font-size:1.2em">Q6.</div>
+						<div class="col-xs-10 col-md-3">
+							<p>Can provide a simple explanation of how to get from your home to school.</p>
+							<br>
+							<p>　自宅から大学までの通学方法について簡単に説明できる。</p>
+						</div>
+						<div class="col-xs-12 col-md-4">
+							Example(例)：<br>家（いえ）から吹田駅（すいたえき）まで自転車（じてんしゃ）で行きます。吹田（すいた）から北千里（きたせんり）まで電車（でん しゃ）に乗（の）ります。北千里（きたせんり）から歩（ある）いて大学に来ます。ぜんぶで40分ぐらいかかります。													</div>
+						<div class="col-xs-12 col-md-4">
+							<div class="your_answer">
+								<label class="radio-inline">
+									<input type="radio" name="Q6" value="1" required=""> 1
+								</label>
+								<label class="radio-inline">
+									<input type="radio" name="Q6" value="2" required=""> 2
+								</label>
+								<label class="radio-inline">
+									<input type="radio" name="Q6" value="3" required=""> 3
+								</label>
+								<label class="radio-inline">
+									<input type="radio" name="Q6" value="4" required=""> 4
+								</label>
+								<label class="radio-inline">
+									<input type="radio" name="Q6" value="5" required=""> 5
+								</label>
+							</div>
+						</div>
+					</div>
+					<hr>
+																<div class="row">
+						<div class="col-xs-2 col-md-1" style="font-size:1.2em">Q7.</div>
+						<div class="col-xs-10 col-md-3">
+							<p>Can read and comprehend an easy composition about life in Japan.</p>
+							<br>
+							<p>1日の生活についてやさしい日本語で書かれた文章を読んで意味がわかる。</p>
+						</div>
+						<div class="col-xs-12 col-md-4">
+							Example(例)：　<br>わたしは毎朝（まいあさ）７時に起（お）きます。朝（あさ）ご飯（はん）にパンとたまごとサラダを食べ、コーヒーを飲（の）みます。それから歯（は）をみがきます。８時に家を出ます。家から大学まで40分ぐらいかかります。午前中（ごぜんちゅう）は、だいたい、授業（じゅぎょう）やゼミがあります。お昼（ひる）ご飯（はん）はゼミの友だちといっしょに生協（せいきょう）で食べます。午後（ごご）は実験（じっけん）をします。ときどき早（はや）く帰（かえ）れる日もありますが、たいてい９時ごろになります。おなかがすくので、ときどきサンドイッチなどを食べます。帰（かえ）りに近（ちか）くの食堂（しょくどう）で晩（ばん）ご飯（はん）を食べます。 10時半ごろ、うちに帰（かえ）ります。それからシャワーをあびて、テレビのニュースを見ます。夜（よる）は12時までに寝（ね）るようにしています。日本での生活（せいかつ）は大変（たいへん）です。 													</div>
+						<div class="col-xs-12 col-md-4">
+							<div class="your_answer">
+								<label class="radio-inline">
+									<input type="radio" name="Q7" value="1" required=""> 1
+								</label>
+								<label class="radio-inline">
+									<input type="radio" name="Q7" value="2" required=""> 2
+								</label>
+								<label class="radio-inline">
+									<input type="radio" name="Q7" value="3" required=""> 3
+								</label>
+								<label class="radio-inline">
+									<input type="radio" name="Q7" value="4" required=""> 4
+								</label>
+								<label class="radio-inline">
+									<input type="radio" name="Q7" value="5" required=""> 5
+								</label>
+							</div>
+						</div>
+					</div>
+					<hr>
+																<div class="row">
+						<div class="col-xs-2 col-md-1" style="font-size:1.2em">Q8.</div>
+						<div class="col-xs-10 col-md-3">
+							<p>Can make proper use of the past tense to give a simple explanation of your personal history in your home country.</p>
+							<br>
+							<p>　母国での経歴について、適切な過去時制の表現によって簡単に説明できる。</p>
+						</div>
+						<div class="col-xs-12 col-md-4">
+							Example(例)：<br>わたしは、○○年に国で大学を卒業（そつぎょう）しました。そして、５年間コンピュー タの会社（かいしゃ）に勤（つと）めていました。そのあと、大学院に入って、ネットワークを研究（けんきゅう）しました。マスターコースが終（お）わった後（あと）、大学の先生になりました。３年間先生をしていましたが、日本でもっと研究（けんきゅう）したいと思うようになりました。それで、日本に留学（りゅうがく）することにしました。													</div>
+						<div class="col-xs-12 col-md-4">
+							<div class="your_answer">
+								<label class="radio-inline">
+									<input type="radio" name="Q8" value="1" required=""> 1
+								</label>
+								<label class="radio-inline">
+									<input type="radio" name="Q8" value="2" required=""> 2
+								</label>
+								<label class="radio-inline">
+									<input type="radio" name="Q8" value="3" required=""> 3
+								</label>
+								<label class="radio-inline">
+									<input type="radio" name="Q8" value="4" required=""> 4
+								</label>
+								<label class="radio-inline">
+									<input type="radio" name="Q8" value="5" required=""> 5
+								</label>
+							</div>
+						</div>
+					</div>
+					<hr>
+																<div class="row">
+						<div class="col-xs-2 col-md-1" style="font-size:1.2em">Q9.</div>
+						<div class="col-xs-10 col-md-3">
+							<p>Can explain what you want to do after graduating from the university.</p>
+							<br>
+							<p>大学で勉強した後何がしたいかを簡単に説明できる。</p>
+						</div>
+						<div class="col-xs-12 col-md-4">
+							Example(例)：<br>今、わたしは日本でIP電話（でんわ）について研究（けんきゅう）しています。博士号（はかせごう）を取（と）ったら国に帰（かえ）りたいと思っています。大学の先生になるか、会社（かいしゃ）に入（はい）るか、まだ決（き）めていません。でも、みんなが安くIP電話（でんわ）が使（つか）えるようにしたいと考（かんが）えています。													</div>
+						<div class="col-xs-12 col-md-4">
+							<div class="your_answer">
+								<label class="radio-inline">
+									<input type="radio" name="Q9" value="1" required=""> 1
+								</label>
+								<label class="radio-inline">
+									<input type="radio" name="Q9" value="2" required=""> 2
+								</label>
+								<label class="radio-inline">
+									<input type="radio" name="Q9" value="3" required=""> 3
+								</label>
+								<label class="radio-inline">
+									<input type="radio" name="Q9" value="4" required=""> 4
+								</label>
+								<label class="radio-inline">
+									<input type="radio" name="Q9" value="5" required=""> 5
+								</label>
+							</div>
+						</div>
+					</div>
+					<hr>
+																<div class="row">
+						<div class="col-xs-2 col-md-1" style="font-size:1.2em">Q10.</div>
+						<div class="col-xs-10 col-md-3">
+							<p>Can provide easy-to-understand explanations to professors by e-mail when it is necessary to be absent from class.</p>
+							<br>
+							<p>授業やゼミを休まなければならない場合、そのことを わかりやすく、先生にＥメールで伝えることができる。</p>
+						</div>
+						<div class="col-xs-12 col-md-4">
+							Example(例)：<br> 金曜日（きんようび）の１時間目（じかんめ）のゼミに出ている○○です。 じつは、かぜをひいて しまいました。頭（あたま）がいたくて熱（ねつ）もあります。すみませんが、ゼミを休みたいと思っています。どうぞ、よろしくお願（ねが）いします。													</div>
+						<div class="col-xs-12 col-md-4">
+							<div class="your_answer">
+								<label class="radio-inline">
+									<input type="radio" name="Q10" value="1" required=""> 1
+								</label>
+								<label class="radio-inline">
+									<input type="radio" name="Q10" value="2" required=""> 2
+								</label>
+								<label class="radio-inline">
+									<input type="radio" name="Q10" value="3" required=""> 3
+								</label>
+								<label class="radio-inline">
+									<input type="radio" name="Q10" value="4" required=""> 4
+								</label>
+								<label class="radio-inline">
+									<input type="radio" name="Q10" value="5" required=""> 5
+								</label>
+							</div>
+						</div>
+					</div>
+					<hr>
+																<div class="row" style="margin-bottom:2%">
+<div class="col-md-6">
+	<center>
+	<a class="btn btn-default" href="select_level.php" style="font-size:1.0em" role="button">≪&nbsp;Back&nbsp;&nbsp;&nbsp;&nbsp;-戻る-</a></center>
+	</div><div class="col-md-6">
+	<center><button class="btn btn-primary btn-lg pull-right" style="font-size:1.4em" type="submit">Go to the next question&nbsp;&nbsp;&nbsp;&nbsp;-次の課題へ- &nbsp;≫</button></center>
+	</div>
+				
+			</div></form>
+    <!-- <div class="question-container row">
             <div class="question col-xs-12">
               <span class="question-index">Q.1</span> Can read and write Hiragana or Katakana.
               <br> 鐃緒申鐃述らが鐃淑￥申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃銃わ申鐃宿み書きわ申鐃叔わ申鐃暑。
@@ -707,28 +966,28 @@ $_SESSION["t_level"] = 200;
           <div class="col-sm-1 radio-answer" >
               <div class="form-check">
                 <label class="form-check-label">
-                  <input type="radio" class="form-check-label"  name="Q9" value="1">
+                  <input type="radio" class="form-check-label"  name="Q10" value="1">
                   1
                 </label>
               </div>
               <div class="form-check">
                 <label class="form-check-label">
-                <input type="radio" class="form-check-label" name="Q9" value="2">
+                <input type="radio" class="form-check-label" name="Q10" value="2">
                   2</label>
               </div>
               <div class="form-check">
                 <label class="form-check-label">
-                <input type="radio" class="form-check-label" name="Q9" value="3">
+                <input type="radio" class="form-check-label" name="Q10" value="3">
                   3</label>
               </div>
               <div class="form-check">
                 <label class="form-check-label">
-                <input type="radio" class="form-check-label" name="Q9" value="4">
+                <input type="radio" class="form-check-label" name="Q10" value="4">
                   4</label>
               </div>
               <div class="form-check">
                 <label class="form-check-label">
-                <input type="radio" class="form-check-label" name="Q9" value="5">
+                <input type="radio" class="form-check-label" name="Q10" value="5">
                   5</label>
               </div>
           </div>
@@ -739,11 +998,9 @@ $_SESSION["t_level"] = 200;
     <div class="btn-next-container">
       鐃緒申鐃緒申
       <input type="submit" class="btn btn-primary" value="鐃緒申鐃緒申Next鐃緒申鐃緒申" name="submit">
-    </DIV>
-  </FORM>
-  <font color="#8EAACC"></font>
-  <DIV class="last"> </DIV>
-    </div>
-</BODY>
+    </DIV> -->
+  </form>
+  </div>
+</body>
 
-</HTML>
+</html>

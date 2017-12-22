@@ -1,12 +1,12 @@
 body {
-    background-color: #eeeeee;
+    /* background-color: #eeeeee; */
 }
 .container {
-    background-color: white;
+    /* background-color: white;
     padding-top: 30px;
     padding-left: 20px;
     padding-right: 20px;
-    height: 100%;
+    height: 100%; */
 }
 
 .title-index {
@@ -150,6 +150,9 @@ body {
 .question-div {
     padding: 20px;
     font-size: 16px;
+    border: 1px solid #cecece;
+    border-radius: 4px;
+    margin-bottom: 10px;
 }
 
 .select-answer {
@@ -160,3 +163,77 @@ body {
     margin-bottom: 0;
     padding-top: 10px;
 }
+
+.btn-level{
+	display: table-cell;
+	padding: 3px;
+	text-align: center;
+	vertical-align: middle;
+	width: 120px;
+	height: 60px;
+	-webkit-border-radius:50%;
+	-moz-border-radius:50%;
+	border-radius:50%;
+}
+.btn-level-text{
+	font-size: 15px;
+	text-align: center;
+	vertical-align: middle;
+	margin: 0 auto;
+}
+.btn-level100{
+	color: #fff;
+	background-color: #ff6666;
+	border-color: #ff6666;
+ 	text-shadow: 2px 2px 1px #999999;
+}
+.btn-level200{
+	color: #fff;
+	background-color: #ff9966;
+	border-color: #ff9966;
+	text-shadow: 2px 2px 1px #999999;
+}
+.btn-level300{
+	color: #fff;
+	background-color: #ffcc33;
+	border-color: #ffcc33;
+	text-shadow: 2px 2px 1px #999999;
+}
+.btn-level400{
+	color: #fff;
+	background-color: #66ff66;
+	border-color: #66ff66;
+	text-shadow: 2px 2px 1px #999999;
+}
+.btn-level500{
+	color: #fff;
+	background-color: #66cccc;
+	border-color: #66cccc;
+	text-shadow: 2px 2px 1px #999999;
+}
+.btn-level600{
+	color: #fff;
+	background-color: #3366ff;
+	border-color: #3366ff;
+	text-shadow: 2px 2px 1px #999999;
+}
+.btn-level700{
+	color: #fff;
+	background-color: #6633cc;
+	border-color: #6633cc;
+	text-shadow: 2px 2px 1px #999999;
+}
+.your_answer{
+	display: inline;
+	border-radius: 4px;
+	padding: 3px;
+}
+.answered{
+  border: 1px solid #ccc;
+  outline: 0;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.2), 0 0 10px rgba(223, 240, 216, .8);
+          box-shadow: inset 0 1px 1px rgba(0,0,0,.2), 0 0 10px rgba(223, 240, 216, .8);
+}
+/* .container{
+	margin-top:2%;
+} */

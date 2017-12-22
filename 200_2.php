@@ -20,29 +20,48 @@ session_start();
 
 <body>
   <div class="container">
-  <div class="title-index">
-  <H1 class="center">200鐃緒申戰鐃?</H1>
+  <FORM onsubmit="return FormCheck(this)" action="result.php" method="post">
+<div class="row">
+<div class="col-xs-12">
+  <div class="panel panel-default ">
+    <div class="panel-heading">
+      <div class="row">
+        <div class="col-xs-6 col-md-6" style="font-size:1.2em">
+          Level 200 - Task 2
+        </div>
+        <div class="col-xs-6 col-md-6" style="font-size:1.2em">
+          200レベル - 課題２
+        </div>
+      </div>
+    </div>
+    <div class="panel-body">
+      <div class="row">
+        <div class="col-xs-6 col-md-6">
+          <p>
+            For the questions below, select the most appropriate word for the parentheses 
+            from the drug-down list on the right. After answering all of the questions, 
+            click the "Go to the Result" button at the bottom of the page. <br>
+            Leave the choices of questions unselected when you do not know the answer.<br>
+            As reloading the page will cause the questions to change, please refrain 
+            from reloading the page.
+          </p>
+        </div>
+        <div class="col-xs-6 col-md-6">
+          <p>
+            以下の文の（　　）に入るもっとも適当なことばを、右端の選択肢から一つ選んでください。
+            全部の問題に答えたら、一番下の「結果を見る」のボタンをクリックしてください。<br>
+            わからないときは、無理に答えないでください。<br>
+            画面を再読込すると違う問題が出てくるので、再読込はしないでください。
+          </p>
+        </div>
+      </div>
+    </div>
   </div>
-  <div class="center">
-    <div class="margin-top-20"><span class="task-title">Task 2</span> </div>
-    <br> 鐃緒申鐃緒申蝪駕申鐃?
-      <br>
-      <br>
-    </font>
-  </div>
-  <br>
-  <div>
-      For the questions below, select the most appropriate word for the parentheses from the drug-down list on the right.
-        After answering all of the questions, click the &quot;Next&quot; button at the bottom of the page.
-        <br> As reloading the page will cause the questions to change, please refrain from reloading the page.
-        <br> 鐃淑駕申鐃緒申文鐃塾（￥申鐃緒申鐃祝わ申鐃緒申鐃緒申鐃獣とわ申適鐃緒申鐃淑わ申鐃夙ばを、縁申端鐃緒申鐃緒申鐃緒申茲?鐃緒申鐃緒申鐃緒申鐃緒申任鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申蕁?鐃緒申鐃瞬駕申鐃塾￥申Next鐃緒申椒鐃緒申鐃薯クワ申奪鐃緒申鐃緒申討鐃緒申鐃緒申鐃緒申鐃緒申鐃?
-        <br> 鐃緒申鐃縮わ申鐃緒申氷鐃緒申鐃緒申鐃夙違う鐃緒申鐃所が鐃出てわ申鐃緒申里如鐃緒申鐃緒申氷鐃緒申呂鐃緒申覆鐃緒申任鐃緒申鐃緒申鐃緒申鐃緒申鐃?
-        <br>
-  </div>
+</div>
+</div>
   <br>
   <HR>
 
-  <FORM onsubmit="return FormCheck(this)" action="result.php" method="post">
     <input type=hidden name="NLEVEL" value="200">
     <?php
       for ($i = 1; $i < 11; $i++) {
@@ -77,14 +96,14 @@ session_start();
           } while ($ckp > 0);
         }
         $pnum = $inum - 10;
-        print("<div class='row question-div'><div class='col-sm-9'>Q." . $pnum . "<br>" . $dat[$num] . "</div><div class='col-sm-3 form-group'><select class='select-answer form-control' name=Q" . $inum++ . ">\n<option value=0> \n");
+        print("<div class='row'><div class='col-sm-1'>Q.". $pnum . "</div><div class='col-sm-7'>" . $dat[$num] . "</div><div class='col-sm-4 form-group'><select class='select-answer form-control' name=Q" . $inum++ . ">\n<option value=0> \n");
         for ($j = 1; $j < 6; $j++) {
           $opt[$onum[$j]] = "<option value=" . $j . ">" . $dat[$j + $num] . "\n";
         }
         for ($k = 1; $k < 6; $k++) {
           print($opt[$k]);
         }
-        print("</select></div></div>\n");
+        print("</select></div></div><hr>\n");
       }
     ?>
       <HR>
