@@ -8,6 +8,7 @@ session_start();
   <meta http-equiv="Content-Type" content="text/html; charset=euc-jp">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
   <link rel="stylesheet" href="/style.css">
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" ></script>
   <script language="JavaScript">
     function MM_callJS(jsStr) { //v2.0
       return eval(jsStr)
@@ -25,9 +26,8 @@ session_start();
         <div class="panel-heading">
             <h4 class="panel-title">
                 <?php
-                    $student_name = $_POST['student_name'];
-                    $student_number = $_POST['student_number'];
-                    print("Your Result - Level - " . $_POST['NLEVEL']);
+                    $level = $_POST['NLEVEL'];
+                    print("Your Result - Level - " . "<span id='current-level'>". $_POST['NLEVEL']. '</span>');
                 ?>
             </h4>
         </div>
@@ -139,19 +139,50 @@ session_start();
             <div class="col-xs-12 col-md-4">
                 <div class="panel panel-default">
                     <div class="panel-body">
-                        <form action="print_pdf.php" method="POST" target="brank">
+                        <form method="POST" action="/student_save_result.php" target="brank">
                             <div class="form-group">
                                 <label for="student_name">Name: </label>
-                                <?php
-                                    print($student_name);
-                                ?>
+                                <input type="text" class="form-control" id="student_name" name="student_name" required/>
                             </div>
                             <div class="form-group">
                                 <label for="student_number">Student number: </label>
-                                <?php
-                                    print($student_number);
-                                ?>
+                                <input type="text" class="form-control" id="student_number" name="student_number" required />
+
                             </div>
+                            <?php
+                                // TOTAL1 + TOTAL2 CALCULATE
+                                $total = $total1 + $total2;
+
+                                // POST TO SERVER
+                                $url = "http://localhost:8888/save-result.php";
+                                $data = array(
+                                    'level' => $level,
+                                    'scoreTask1' => $scoreTask1,
+                                    'scoreTask2' => $scoreTask2,
+                                    'totalTask1' => $total1,
+                                    'totalTask2' => $total2,
+                                    'total' => $total,
+                                );
+
+                                $query_url = http_build_query($data, 'flags_');
+                                //open connection
+                                $ch = curl_init();
+
+                                //set the url, number of POST vars, POST data
+                                $ch = curl_init($url);
+                                curl_setopt($ch, CURLOPT_POST, 1);
+                                curl_setopt($ch, CURLOPT_POSTFIELDS, $query_url);
+                                curl_setopt($ch, CURLOPT_FOLLOWLOCATION, 1);
+                                curl_setopt($ch, CURLOPT_HEADER, 0);
+                                curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+
+                                //execute post
+                                $result = curl_exec($ch);
+                                print('<input id="result-id" name="result_id" class="hidden" value="' .$result . '"/>');
+                                //close connection
+                                curl_close($ch);
+                                //
+                                ?>
                             <button class="btn btn-primary pull-right" type="submit">Print as PDF</button>
                         </form>
                     </div>
@@ -178,49 +209,7 @@ session_start();
   
   
   
-  <?php
-// TOTAL1 + TOTAL2 CALCULATE
-$total = $total1 + $total2;
-
-// POST TO SERVER
-
-
-
-$url = "http://localhost:8888/save-result.php";
-$data = array(
-    'name' => $student_name,
-    'studentId' => '19237AS',
-    'studentNumber' => $student_number,
-    'level' => 200,
-    'scoreTask1' => $scoreTask1,
-    'scoreTask2' => $scoreTask2,
-    'totalTask1' => $total1,
-    'totalTask2' => $total2,
-    'total' => $total,
-);
-
-$query_url = http_build_query($data, 'flags_');
-//open connection
-$ch = curl_init();
-
-//set the url, number of POST vars, POST data
-$ch = curl_init($url);
-curl_setopt($ch, CURLOPT_POST, 1);
-curl_setopt($ch, CURLOPT_POSTFIELDS, $query_url);
-curl_setopt($ch, CURLOPT_FOLLOWLOCATION, 1);
-curl_setopt($ch, CURLOPT_HEADER, 0);
-curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
-
-//execute post
-$result = curl_exec($ch);
-
-if (!$result) {
-    echo "Failed";
-}
-//close connection
-curl_close($ch);
-//
-?>
+  
   
   </div>
   </div>

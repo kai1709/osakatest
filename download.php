@@ -27,7 +27,7 @@ use \Firebase\JWT\JWT;
     } else {
     }
         $objPHPExcel = new PHPExcel();
-        $query1 = "SELECT * FROM osakatest.student_result";
+        $query1 = "SELECT * FROM osakatest.student_result WHERE student_name IS NOT NULL";
         $exec1 = pg_query($query1) or die("Error in Query1");
         $serialnumber = 0;
         //Set header with temp array
